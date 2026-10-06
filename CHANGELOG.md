@@ -1,3 +1,10 @@
+## 0.15.0 — 2026-10-07
+
+- Completed Article 14: Hotel ESG & Sustainability AI Toolkit.
+- Added Prompts 131–140 covering ESG materiality, environmental aspects, resource performance, GHG inventory support, sustainable procurement, engagement, social ESG, target tracking, greenwashing review and management review.
+- Updated the prompt registry to 140 completed prompts.
+- Added the Article 14 premium web edition using the Tourism Quality/SOP design system.
+
 ## 0.14.0 — 2026-10-07
 
 - Completed Article 13: Lean Six Sigma for Hotel Operations AI Toolkit.
