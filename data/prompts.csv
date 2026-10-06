@@ -109,16 +109,16 @@ article_number,prompt_number,global_number,id,title,category,department,risk_lev
 11,8,108,11-08-department-audit-summary,Department Audit Summary,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/108-department-audit-summary.md
 11,9,109,11-09-evidence-gap-detector,Evidence Gap Detector,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/109-evidence-gap-detector.md
 11,10,110,11-10-corrective-action-effectiveness-review,Corrective Action Effectiveness Review,Quality Assurance,Quality managers,High,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/110-corrective-action-effectiveness-review.md
-12,1,111,12-01-sop-structure-builder,SOP Structure Builder,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/111-sop-structure-builder.md
-12,2,112,12-02-procedure-draft-builder,Procedure Draft Builder,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/112-procedure-draft-builder.md
-12,3,113,12-03-raci-designer,RACI Designer,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/113-raci-designer.md
-12,4,114,12-04-exception-and-escalation-matrix,Exception and Escalation Matrix,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/114-exception-and-escalation-matrix.md
-12,5,115,12-05-sop-evidence-record-designer,SOP Evidence Record Designer,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/115-sop-evidence-record-designer.md
-12,6,116,12-06-sop-kpi-designer,SOP KPI Designer,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/116-sop-kpi-designer.md
-12,7,117,12-07-work-instruction-builder,Work Instruction Builder,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/117-work-instruction-builder.md
-12,8,118,12-08-checklist-generator,Checklist Generator,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/118-checklist-generator.md
-12,9,119,12-09-sop-gap-audit,SOP Gap Audit,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/119-sop-gap-audit.md
-12,10,120,12-10-document-revision-impact-review,Document Revision Impact Review,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/120-document-revision-impact-review.md
+12,1,111,12-01-sop-structure-builder,SOP Structure Builder,SOP & Process Design,Quality and operations teams,Medium,Complete,playbook/12,prompt-library/111-sop-structure-builder.md
+12,2,112,12-02-procedure-draft-builder,Procedure Draft Builder,SOP & Process Design,Quality and operations teams,Medium,Complete,playbook/12,prompt-library/112-procedure-draft-builder.md
+12,3,113,12-03-raci-designer,RACI Designer,SOP & Process Design,Quality and operations teams,High,Complete,playbook/12,prompt-library/113-raci-designer.md
+12,4,114,12-04-exception-and-escalation-matrix,Exception and Escalation Matrix,SOP & Process Design,Quality and operations teams,High,Complete,playbook/12,prompt-library/114-exception-and-escalation-matrix.md
+12,5,115,12-05-sop-evidence-record-designer,SOP Evidence Record Designer,SOP & Process Design,Quality and operations teams,Medium,Complete,playbook/12,prompt-library/115-sop-evidence-record-designer.md
+12,6,116,12-06-sop-kpi-designer,SOP KPI Designer,SOP & Process Design,Quality and operations teams,Medium,Complete,playbook/12,prompt-library/116-sop-kpi-designer.md
+12,7,117,12-07-work-instruction-builder,Work Instruction Builder,SOP & Process Design,Quality and operations teams,Medium,Complete,playbook/12,prompt-library/117-work-instruction-builder.md
+12,8,118,12-08-checklist-generator,Checklist Generator,SOP & Process Design,Quality and operations teams,Medium,Complete,playbook/12,prompt-library/118-checklist-generator.md
+12,9,119,12-09-sop-gap-audit,SOP Gap Audit,SOP & Process Design,Quality and operations teams,Medium,Complete,playbook/12,prompt-library/119-sop-gap-audit.md
+12,10,120,12-10-document-revision-impact-review,Document Revision Impact Review,SOP & Process Design,Quality and operations teams,High,Complete,playbook/12,prompt-library/120-document-revision-impact-review.md
 13,1,121,13-01-dmaic-project-charter-builder,DMAIC Project Charter Builder,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/121-dmaic-project-charter-builder.md
 13,2,122,13-02-voc-to-ctq-converter,VOC to CTQ Converter,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/122-voc-to-ctq-converter.md
 13,3,123,13-03-pareto-analyzer,Pareto Analyzer,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/123-pareto-analyzer.md
