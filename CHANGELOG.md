@@ -16,11 +16,24 @@
 - Added UAE 60-unit serviced-apartment scenario and cross-website knowledge connections.
 - Published the Article 09 web edition and updated repository progress.
 
+## 0.9.0 — 2026-10-06
+
+- Completed Article 08: Predictive Maintenance AI Toolkit.
+- Added Prompts 071–080 and predictive-maintenance validation controls.
+- Added failure-pattern, anomaly, early-warning and downtime-scenario workflows.
+- Added Article 08 web edition.
+
 ## 0.8.0 — 2026-10-06
 
 - Completed Article 07: Engineering & Maintenance AI Toolkit.
 - Added Prompts 061–070 and engineering decision-support controls.
 - Added cross-website knowledge connections and web edition.
+
+## 0.7.0 — 2026-10-06
+
+- Completed Article 06: Housekeeping Management AI Toolkit.
+- Added Prompts 051–060 and housekeeping readiness, inspection, PAR, productivity and handover controls.
+- Added Article 06 web edition and cross-website knowledge connections.
 
 ## 0.6.0 — 2026-10-06
 
