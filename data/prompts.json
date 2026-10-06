@@ -997,7 +997,8 @@
     "department": "Engineering and quality teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/08",    "prompt_file": "prompt-library/077-maintenance-data-quality-audit.md"
+    "source_article": "playbook/08",
+    "prompt_file": "prompt-library/077-maintenance-data-quality-audit.md"
   },
   {
     "article_number": 8,
@@ -1307,8 +1308,8 @@
     "category": "Quality Assurance",
     "department": "Quality managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/101-quality-audit-planner.md"
   },
   {
@@ -1320,8 +1321,8 @@
     "category": "Quality Assurance",
     "department": "Quality managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/102-room-audit-checklist.md"
   },
   {
@@ -1333,8 +1334,8 @@
     "category": "Quality Assurance",
     "department": "Quality managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/103-process-compliance-review.md"
   },
   {
@@ -1346,8 +1347,8 @@
     "category": "Quality Assurance",
     "department": "Quality managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/104-audit-finding-classifier.md"
   },
   {
@@ -1358,9 +1359,9 @@
     "title": "Nonconformity Report Draft",
     "category": "Quality Assurance",
     "department": "Quality managers",
-    "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "risk_level": "High",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/105-nonconformity-report-draft.md"
   },
   {
@@ -1372,8 +1373,8 @@
     "category": "Quality Assurance",
     "department": "Quality managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/106-quality-trend-analyzer.md"
   },
   {
@@ -1385,8 +1386,8 @@
     "category": "Quality Assurance",
     "department": "Quality managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/107-mystery-guest-finding-review.md"
   },
   {
@@ -1398,8 +1399,8 @@
     "category": "Quality Assurance",
     "department": "Quality managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/108-department-audit-summary.md"
   },
   {
@@ -1411,8 +1412,8 @@
     "category": "Quality Assurance",
     "department": "Quality managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/109-evidence-gap-detector.md"
   },
   {
@@ -1423,9 +1424,9 @@
     "title": "Corrective Action Effectiveness Review",
     "category": "Quality Assurance",
     "department": "Quality managers",
-    "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/11",
+    "risk_level": "High",
+    "status": "Complete",
+    "source_article": "playbook/11-hotel-quality-audit-ai-toolkit.md",
     "prompt_file": "prompt-library/110-corrective-action-effectiveness-review.md"
   },
   {
@@ -1996,7 +1997,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",    "source_article": "playbook/16",
+    "status": "Registered",
+    "source_article": "playbook/16",
     "prompt_file": "prompt-library/154-procurement-specification-builder.md"
   },
   {
@@ -2995,7 +2997,8 @@
     "title": "GM Morning Brief",
     "category": "General Management",
     "department": "General managers",
-    "risk_level": "Medium",    "status": "Registered",
+    "risk_level": "Medium",
+    "status": "Registered",
     "source_article": "playbook/24",
     "prompt_file": "prompt-library/231-gm-morning-brief.md"
   },
