@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.8.0 — 2026-10-06
+
+- Completed Article 07: Engineering & Maintenance AI Toolkit.
+- Added Prompts 061–070 and engineering decision-support controls.
+- Added cross-website knowledge connections and web edition.
+
 ## 0.6.0 — 2026-10-06
 
 - Completed Article 05: Hotel Apartment & Extended-Stay AI Toolkit.
