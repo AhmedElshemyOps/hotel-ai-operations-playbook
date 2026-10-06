@@ -12,9 +12,9 @@ Hotel Operations · Serviced Apartments · Guest Experience · Quality · Revenu
 
 ## Current build status
 
-- **Articles 01–06: complete — HOTEL Framework, Operations Manager, Front Office, Reservations, Extended Stay and Housekeeping toolkitsns Manager, Front Office, Reservations, and Hotel Apartment / Extended-Stay toolkits
-- **Prompts 001–060: complete and copy-readynd copy-ready
-- **Articles 07–26: structured roadmap with 200 registered prompt records awaiting chapter-by-chapter editorial completionng chapter-by-chapter editorial completion
+- **Articles 01–07:** complete — HOTEL Framework, Operations Manager, Front Office, Reservations, Hotel Apartment / Extended-Stay, Housekeeping, and Engineering & Maintenance
+- **Prompts 001–070:** complete and copy-ready
+- **Articles 08–26:** structured roadmap with 190 registered prompt records awaiting chapter-by-chapter editorial completion
 - **Repository validation:** 26 chapters / 260 unique prompt records
 
 ## What this project is
