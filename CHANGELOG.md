@@ -1,3 +1,10 @@
+## 0.14.0 — 2026-10-07
+
+- Completed Article 13: Lean Six Sigma for Hotel Operations AI Toolkit.
+- Added Prompts 121–130 covering DMAIC, VOC/CTQ, Pareto, root-cause hypotheses, fishbone, FMEA, COPQ, process capability, control plans and kaizen prioritization.
+- Added statistical guardrails, Finance-validated benefits controls and 60-unit UAE serviced-apartment examples.
+- Prepared the Article 13 premium web edition using the Tourism Quality/SOP design system.
+
 # Changelog
 
 ## 0.13.0 — 2026-10-07
