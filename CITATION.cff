@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Hotel & Serviced Apartment AI Operations Playbook"
+message: "If you use this work, please cite it."
+type: dataset
+authors:
+  - family-names: Mahmoud
+    given-names: Ahmed
+year: 2026
+version: 0.6.0
+url: https://ahmedqualityops.com/
