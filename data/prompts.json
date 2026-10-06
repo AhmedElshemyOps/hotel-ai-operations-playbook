@@ -1895,12 +1895,13 @@
     "global_number": 131,
     "id": "14-01-hotel-esg-baseline-builder",
     "title": "Hotel ESG Baseline Builder",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/131-hotel-esg-baseline-builder.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/131-hotel-esg-baseline-builder.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 14,
@@ -1908,12 +1909,13 @@
     "global_number": 132,
     "id": "14-02-sustainability-initiative-business-case",
     "title": "Sustainability Initiative Business Case",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/132-sustainability-initiative-business-case.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/132-sustainability-initiative-business-case.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 14,
@@ -1921,12 +1923,13 @@
     "global_number": 133,
     "id": "14-03-esg-kpi-designer",
     "title": "ESG KPI Designer",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/133-esg-kpi-designer.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/133-esg-kpi-designer.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 14,
@@ -1934,12 +1937,13 @@
     "global_number": 134,
     "id": "14-04-waste-reduction-planner",
     "title": "Waste Reduction Planner",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/134-waste-reduction-planner.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/134-waste-reduction-planner.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 14,
@@ -1947,12 +1951,13 @@
     "global_number": 135,
     "id": "14-05-laundry-sustainability-review",
     "title": "Laundry Sustainability Review",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/135-laundry-sustainability-review.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/135-laundry-sustainability-review.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 14,
@@ -1960,12 +1965,13 @@
     "global_number": 136,
     "id": "14-06-amenity-waste-analyzer",
     "title": "Amenity Waste Analyzer",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/136-amenity-waste-analyzer.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/136-amenity-waste-analyzer.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 14,
@@ -1973,12 +1979,13 @@
     "global_number": 137,
     "id": "14-07-responsible-sourcing-review",
     "title": "Responsible Sourcing Review",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/137-responsible-sourcing-review.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/137-responsible-sourcing-review.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 14,
@@ -1986,12 +1993,13 @@
     "global_number": 138,
     "id": "14-08-guest-sustainability-communication-draft",
     "title": "Guest Sustainability Communication Draft",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/138-guest-sustainability-communication-draft.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/138-guest-sustainability-communication-draft.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 14,
@@ -1999,12 +2007,13 @@
     "global_number": 139,
     "id": "14-09-esg-action-register",
     "title": "ESG Action Register",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/139-esg-action-register.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/139-esg-action-register.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 14,
@@ -2012,12 +2021,13 @@
     "global_number": 140,
     "id": "14-10-sustainability-performance-summary",
     "title": "Sustainability Performance Summary",
-    "category": "ESG",
-    "department": "Sustainability and operations teams",
+    "category": "Hotel ESG & Sustainability",
+    "department": "ESG / Sustainability",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/14",
-    "prompt_file": "prompt-library/140-sustainability-performance-summary.md"
+    "status": "Complete",
+    "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
+    "prompt_file": "prompt-library/140-sustainability-performance-summary.md",
+    "version": "1.0.0"
   },
   {
     "article_number": 15,
