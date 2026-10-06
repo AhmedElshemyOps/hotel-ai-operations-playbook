@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.12.1 — 2026-10-07
+
+- Upgraded Articles 01–10 to the Article 11 premium website standard.
+- Added hero visuals, glossaries, reader feedback/share controls and consistent structured metadata.
+- Removed legacy nested web-edition wrappers and normalized heading semantics.
+- Mirrored the premium website editions for Articles 01–11 into `docs/`.
+- Preserved series navigation, connected-knowledge links and governed prompt content.
+
+
 ## 0.12.0 — 2026-10-06
 
 - Completed Article 11: Hotel Quality Audit AI Toolkit.
