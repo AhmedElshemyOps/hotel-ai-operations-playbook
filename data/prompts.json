@@ -1568,9 +1568,29 @@
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/121-dmaic-project-charter-builder.md"
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/121-dmaic-project-charter-builder.md",
+    "description": "Define a hotel improvement project before analysis begins, with a measurable problem, scope, customer impact, baseline, goal, team and decision rights.",
+    "when_to_use": "Define a hotel improvement project before analysis begins, with a measurable problem, scope, customer impact, baseline, goal, team and decision rights.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "verified problem statement",
+      "process scope and boundaries",
+      "baseline metric and denominator",
+      "VOC/guest or stakeholder impact",
+      "business impact",
+      "project sponsor and process owner",
+      "known constraints and timeline"
+    ],
+    "expected_outputs": [
+      "DMAIC charter",
+      "problem and goal statements",
+      "in/out-of-scope boundaries",
+      "baseline and target fields",
+      "stakeholder/team map",
+      "initial risks and evidence gaps"
+    ]
   },
   {
     "article_number": 13,
@@ -1581,9 +1601,28 @@
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/122-voc-to-ctq-converter.md"
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/122-voc-to-ctq-converter.md",
+    "description": "Translate verified guest, client or internal-customer needs into measurable critical-to-quality requirements without treating every comment as equally representative.",
+    "when_to_use": "Translate verified guest, client or internal-customer needs into measurable critical-to-quality requirements without treating every comment as equally representative.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "approved VOC sources",
+      "sample period and population",
+      "verbatim themes or coded feedback",
+      "service promise/standard",
+      "available operational measures",
+      "segment/context definitions"
+    ],
+    "expected_outputs": [
+      "VOC theme table",
+      "need-to-CTQ translation",
+      "operational definition for each CTQ",
+      "candidate measure and denominator",
+      "evidence gaps",
+      "validation questions"
+    ]
   },
   {
     "article_number": 13,
@@ -1594,9 +1633,28 @@
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/123-pareto-analyzer.md"
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/123-pareto-analyzer.md",
+    "description": "Identify the few categories contributing most to a defined hotel defect, complaint, delay or rework burden using consistent categories and denominators.",
+    "when_to_use": "Identify the few categories contributing most to a defined hotel defect, complaint, delay or rework burden using consistent categories and denominators.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "clean event-level dataset or approved summary",
+      "category definitions",
+      "time period",
+      "denominator/exposure where relevant",
+      "cost or severity field if used",
+      "data-quality notes"
+    ],
+    "expected_outputs": [
+      "ranked frequency table",
+      "cumulative contribution",
+      "cost/severity Pareto if justified",
+      "category-definition warnings",
+      "recommended focus areas",
+      "questions for validation"
+    ]
   },
   {
     "article_number": 13,
@@ -1607,9 +1665,29 @@
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/124-root-cause-hypothesis-builder.md"
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/124-root-cause-hypothesis-builder.md",
+    "description": "Generate testable root-cause hypotheses from a verified problem pattern without presenting plausible explanations as proven causes.",
+    "when_to_use": "Generate testable root-cause hypotheses from a verified problem pattern without presenting plausible explanations as proven causes.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "validated problem definition",
+      "process map",
+      "stratified data",
+      "timeline",
+      "known changes",
+      "subject-matter observations",
+      "prior tests or findings"
+    ],
+    "expected_outputs": [
+      "hypothesis register",
+      "evidence for/against each hypothesis",
+      "required test or observation",
+      "confounders",
+      "priority for investigation",
+      "human SME questions"
+    ]
   },
   {
     "article_number": 13,
@@ -1619,10 +1697,30 @@
     "title": "Fishbone Facilitator",
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
-    "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/125-fishbone-facilitator.md"
+    "risk_level": "Low",
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/125-fishbone-facilitator.md",
+    "description": "Facilitate a structured cause-and-effect workshop that captures possible causes across people, process, technology, materials, environment, measurement and management controls.",
+    "when_to_use": "Facilitate a structured cause-and-effect workshop that captures possible causes across people, process, technology, materials, environment, measurement and management controls.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "problem statement",
+      "process scope",
+      "workshop participants",
+      "observations",
+      "known constraints",
+      "existing data",
+      "categories appropriate to the process"
+    ],
+    "expected_outputs": [
+      "fishbone cause branches",
+      "duplicate/overlapping causes",
+      "evidence status",
+      "questions to test causes",
+      "parking-lot items",
+      "next-step investigation list"
+    ]
   },
   {
     "article_number": 13,
@@ -1632,10 +1730,30 @@
     "title": "FMEA Draft Assistant",
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
-    "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/126-fmea-draft-assistant.md"
+    "risk_level": "High",
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/126-fmea-draft-assistant.md",
+    "description": "Draft a process FMEA from a verified workflow by identifying potential failure modes, effects, causes and current controls for human scoring and action prioritization.",
+    "when_to_use": "Draft a process FMEA from a verified workflow by identifying potential failure modes, effects, causes and current controls for human scoring and action prioritization.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "validated process steps",
+      "failure history",
+      "guest/safety/business effects",
+      "current prevention/detection controls",
+      "approved scoring scale",
+      "process owners",
+      "known regulatory/safety constraints"
+    ],
+    "expected_outputs": [
+      "draft FMEA table",
+      "failure modes by step",
+      "effects and causes",
+      "current controls",
+      "unscored or human-scored severity/occurrence/detection fields",
+      "recommended control questions"
+    ]
   },
   {
     "article_number": 13,
@@ -1645,10 +1763,30 @@
     "title": "Cost of Poor Quality Analyzer",
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
-    "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/127-cost-of-poor-quality-analyzer.md"
+    "risk_level": "High",
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/127-cost-of-poor-quality-analyzer.md",
+    "description": "Structure an evidence-based cost-of-poor-quality model for hotel defects, rework, refunds, wasted labor, downtime or lost capacity without fabricating financial benefits.",
+    "when_to_use": "Structure an evidence-based cost-of-poor-quality model for hotel defects, rework, refunds, wasted labor, downtime or lost capacity without fabricating financial benefits.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "defect/rework volumes",
+      "Finance-approved cost assumptions",
+      "labor time",
+      "refund/compensation records",
+      "downtime or out-of-order data",
+      "period and denominator",
+      "exclusions and uncertainty"
+    ],
+    "expected_outputs": [
+      "COPQ categories",
+      "calculation table",
+      "verified vs estimated costs",
+      "sensitivity range",
+      "data gaps",
+      "Finance-review questions"
+    ]
   },
   {
     "article_number": 13,
@@ -1658,10 +1796,30 @@
     "title": "Process Capability Review Planner",
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
-    "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/128-process-capability-review-planner.md"
+    "risk_level": "High",
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/128-process-capability-review-planner.md",
+    "description": "Plan a valid capability review for a stable, measurable hotel process and determine whether capability statistics are appropriate before calculating them.",
+    "when_to_use": "Plan a valid capability review for a stable, measurable hotel process and determine whether capability statistics are appropriate before calculating them.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "CTQ/specification limits",
+      "measurement definition",
+      "time-ordered observations",
+      "measurement-system information",
+      "process segmentation",
+      "stability evidence",
+      "sample size"
+    ],
+    "expected_outputs": [
+      "capability-readiness assessment",
+      "data/stability checks",
+      "appropriate capability approach",
+      "stratification plan",
+      "warnings against invalid Cp/Cpk use",
+      "human statistical review questions"
+    ]
   },
   {
     "article_number": 13,
@@ -1672,9 +1830,30 @@
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/129-control-plan-builder.md"
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/129-control-plan-builder.md",
+    "description": "Convert an approved improvement into a sustainable hotel control plan with measures, ownership, frequency, reaction limits, evidence and escalation.",
+    "when_to_use": "Convert an approved improvement into a sustainable hotel control plan with measures, ownership, frequency, reaction limits, evidence and escalation.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "approved future-state process",
+      "validated CTQs/KPIs",
+      "known failure modes",
+      "control method",
+      "owners",
+      "review frequency",
+      "reaction/escalation rules",
+      "document/SOP changes"
+    ],
+    "expected_outputs": [
+      "control-plan table",
+      "metric definitions",
+      "owner and frequency",
+      "reaction plan",
+      "evidence/record requirement",
+      "handover to SOP/training/audit"
+    ]
   },
   {
     "article_number": 13,
@@ -1685,9 +1864,30 @@
     "category": "Lean Six Sigma",
     "department": "Quality and process-improvement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/13",
-    "prompt_file": "prompt-library/130-kaizen-opportunity-prioritizer.md"
+    "status": "Complete",
+    "source_article": "playbook/13-lean-six-sigma-for-hotel-operations-ai-toolkit.md",
+    "prompt_file": "prompt-library/130-kaizen-opportunity-prioritizer.md",
+    "description": "Prioritize small hotel improvement opportunities using evidence, guest impact, effort, risk, reversibility and owner capacity without turning an AI ranking into management approval.",
+    "when_to_use": "Prioritize small hotel improvement opportunities using evidence, guest impact, effort, risk, reversibility and owner capacity without turning an AI ranking into management approval.",
+    "version": "1.0.0",
+    "required_inputs": [
+      "improvement backlog",
+      "problem evidence",
+      "guest/business impact",
+      "estimated effort",
+      "risk/safety implications",
+      "dependencies",
+      "owner capacity",
+      "strategic priorities"
+    ],
+    "expected_outputs": [
+      "prioritized opportunity matrix",
+      "quick-win candidates",
+      "do-not-rush items",
+      "evidence gaps",
+      "dependency map",
+      "recommended pilot sequence"
+    ]
   },
   {
     "article_number": 14,
