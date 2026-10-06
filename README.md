@@ -17,6 +17,10 @@ Hotel Operations · Serviced Apartments · Guest Experience · Quality · Revenu
 - **Articles 12–26:** structured roadmap with 150 registered prompt records awaiting chapter-by-chapter editorial completion
 - **Repository validation:** 26 chapters / 260 unique prompt records
 
+## Premium website standard
+
+Articles 01–11 now use the same premium reader architecture on Ahmed Quality Ops: hero visual, reader controls, article brief, glossary, sticky navigation, connected knowledge, feedback/share controls, newsletter, series navigation and structured metadata. The GitHub `docs/` editions mirror the website versions.
+
 ## What this project is
 
 The **Hotel & Serviced Apartment AI Operations Playbook** is an open professional knowledge product for applying generative AI responsibly in real hotel work. It covers hotels, hotel apartments and serviced apartments across front office, reservations, housekeeping, engineering, guest experience, quality, SOPs, Lean Six Sigma, ESG, utilities, procurement, inventory, revenue, sales, distribution, finance, analytics, workforce management, general management and cross-functional control.
