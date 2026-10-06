@@ -99,16 +99,16 @@ article_number,prompt_number,global_number,id,title,category,department,risk_lev
 10,8,98,10-08-negative-review-recovery-draft,Negative Review Recovery Draft,Service Recovery,"Guest relations, duty management and quality",Medium,Complete,playbook/10,prompt-library/098-negative-review-recovery-draft.md
 10,9,99,10-09-complaint-closure-checklist,Complaint Closure Checklist,Service Recovery,"Guest relations, duty management and quality",Medium,Complete,playbook/10,prompt-library/099-complaint-closure-checklist.md
 10,10,100,10-10-capa-builder,CAPA Builder,Service Recovery,"Guest relations, duty management and quality",High,Complete,playbook/10,prompt-library/100-capa-builder.md
-11,1,101,11-01-quality-audit-planner,Quality Audit Planner,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/101-quality-audit-planner.md
-11,2,102,11-02-room-audit-checklist,Room Audit Checklist,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/102-room-audit-checklist.md
-11,3,103,11-03-process-compliance-review,Process Compliance Review,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/103-process-compliance-review.md
-11,4,104,11-04-audit-finding-classifier,Audit Finding Classifier,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/104-audit-finding-classifier.md
-11,5,105,11-05-nonconformity-report-draft,Nonconformity Report Draft,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/105-nonconformity-report-draft.md
-11,6,106,11-06-quality-trend-analyzer,Quality Trend Analyzer,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/106-quality-trend-analyzer.md
-11,7,107,11-07-mystery-guest-finding-review,Mystery Guest Finding Review,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/107-mystery-guest-finding-review.md
-11,8,108,11-08-department-audit-summary,Department Audit Summary,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/108-department-audit-summary.md
-11,9,109,11-09-evidence-gap-detector,Evidence Gap Detector,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/109-evidence-gap-detector.md
-11,10,110,11-10-corrective-action-effectiveness-review,Corrective Action Effectiveness Review,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/110-corrective-action-effectiveness-review.md
+11,1,101,11-01-quality-audit-planner,Quality Audit Planner,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/101-quality-audit-planner.md
+11,2,102,11-02-room-audit-checklist,Room Audit Checklist,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/102-room-audit-checklist.md
+11,3,103,11-03-process-compliance-review,Process Compliance Review,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/103-process-compliance-review.md
+11,4,104,11-04-audit-finding-classifier,Audit Finding Classifier,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/104-audit-finding-classifier.md
+11,5,105,11-05-nonconformity-report-draft,Nonconformity Report Draft,Quality Assurance,Quality managers,High,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/105-nonconformity-report-draft.md
+11,6,106,11-06-quality-trend-analyzer,Quality Trend Analyzer,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/106-quality-trend-analyzer.md
+11,7,107,11-07-mystery-guest-finding-review,Mystery Guest Finding Review,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/107-mystery-guest-finding-review.md
+11,8,108,11-08-department-audit-summary,Department Audit Summary,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/108-department-audit-summary.md
+11,9,109,11-09-evidence-gap-detector,Evidence Gap Detector,Quality Assurance,Quality managers,Medium,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/109-evidence-gap-detector.md
+11,10,110,11-10-corrective-action-effectiveness-review,Corrective Action Effectiveness Review,Quality Assurance,Quality managers,High,Complete,playbook/11-hotel-quality-audit-ai-toolkit.md,prompt-library/110-corrective-action-effectiveness-review.md
 12,1,111,12-01-sop-structure-builder,SOP Structure Builder,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/111-sop-structure-builder.md
 12,2,112,12-02-procedure-draft-builder,Procedure Draft Builder,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/112-procedure-draft-builder.md
 12,3,113,12-03-raci-designer,RACI Designer,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/113-raci-designer.md
