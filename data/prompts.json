@@ -1438,7 +1438,7 @@
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/111-sop-structure-builder.md"
   },
@@ -1451,7 +1451,7 @@
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/112-procedure-draft-builder.md"
   },
@@ -1463,8 +1463,8 @@
     "title": "RACI Designer",
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
-    "risk_level": "Medium",
-    "status": "Registered",
+    "risk_level": "High",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/113-raci-designer.md"
   },
@@ -1476,8 +1476,8 @@
     "title": "Exception and Escalation Matrix",
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
-    "risk_level": "Medium",
-    "status": "Registered",
+    "risk_level": "High",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/114-exception-and-escalation-matrix.md"
   },
@@ -1490,7 +1490,7 @@
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/115-sop-evidence-record-designer.md"
   },
@@ -1503,7 +1503,7 @@
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/116-sop-kpi-designer.md"
   },
@@ -1516,7 +1516,7 @@
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/117-work-instruction-builder.md"
   },
@@ -1529,7 +1529,7 @@
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/118-checklist-generator.md"
   },
@@ -1542,7 +1542,7 @@
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/119-sop-gap-audit.md"
   },
@@ -1554,8 +1554,8 @@
     "title": "Document Revision Impact Review",
     "category": "SOP & Process Design",
     "department": "Quality and operations teams",
-    "risk_level": "Medium",
-    "status": "Registered",
+    "risk_level": "High",
+    "status": "Complete",
     "source_article": "playbook/12",
     "prompt_file": "prompt-library/120-document-revision-impact-review.md"
   },
