@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.12.0 — 2026-10-06
+
+- Completed Article 11: Hotel Quality Audit AI Toolkit.
+- Added Prompts 101–110 with audit planning, evidence, NCR, trend, mystery-guest, evidence-gap and CAPA-effectiveness controls.
+- Added ISO 19011:2026 and Dubai DET hotel-classification context.
+- Added audit source-of-truth matrix, KPI framework, Lean Six Sigma integration and premium website presentation.
+
+
 ## 0.11.0 — 2026-10-06
 
 - Completed Article 10: Guest Complaint & Service Recovery AI Toolkit.
