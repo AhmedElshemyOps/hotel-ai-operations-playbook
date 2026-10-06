@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.11.0 — 2026-10-06
+
+- Completed Article 10: Guest Complaint & Service Recovery AI Toolkit.
+- Added Prompts 091–100 with evidence, compensation-authority, escalation, closure and CAPA controls.
+- Added complaint source-of-truth, KPI, Lean Six Sigma and cross-website knowledge-linking architecture.
+- Added Article 10 web edition.
+
+
 ## 0.10.0 — 2026-10-06
 
 - Completed Article 09: Guest Experience AI Toolkit.
