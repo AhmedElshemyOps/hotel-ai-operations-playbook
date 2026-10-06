@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.10.0 — 2026-10-06
+
+- Completed Article 09: Guest Experience AI Toolkit.
+- Upgraded Prompts 081–090 to governed operational templates.
+- Added preference provenance, accessibility, special-occasion, journey-review and touchpoint-audit controls.
+- Added UAE 60-unit serviced-apartment scenario and cross-website knowledge connections.
+- Published the Article 09 web edition and updated repository progress.
+
 ## 0.8.0 — 2026-10-06
 
 - Completed Article 07: Engineering & Maintenance AI Toolkit.
