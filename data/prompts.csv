@@ -1,0 +1,261 @@
+article_number,prompt_number,global_number,id,title,category,department,risk_level,status,source_article,prompt_file
+1,1,1,01-01-general-hotel-prompt-builder,General Hotel Prompt Builder,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/001-general-hotel-prompt-builder.md
+1,2,2,01-02-prompt-improvement-and-rewriting,Prompt Improvement and Rewriting,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/002-prompt-improvement-and-rewriting.md
+1,3,3,01-03-missing-information-detection,Missing-Information Detection,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/003-missing-information-detection.md
+1,4,4,01-04-hotel-operating-context-builder,Hotel Operating Context Builder,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/004-hotel-operating-context-builder.md
+1,5,5,01-05-guest-and-stakeholder-profile-definition,Guest and Stakeholder Profile Definition,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/005-guest-and-stakeholder-profile-definition.md
+1,6,6,01-06-output-format-specification,Output-Format Specification,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/006-output-format-specification.md
+1,7,7,01-07-source-of-truth-and-evidence-planner,Source-of-Truth and Evidence Planner,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/007-source-of-truth-and-evidence-planner.md
+1,8,8,01-08-exception-and-escalation-prompt-builder,Exception and Escalation Prompt Builder,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/008-exception-and-escalation-prompt-builder.md
+1,9,9,01-09-prompt-risk-and-authority-classifier,Prompt Risk and Authority Classifier,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/009-prompt-risk-and-authority-classifier.md
+1,10,10,01-10-prompt-verification-and-approval-checklist,Prompt Verification and Approval Checklist,Prompt Engineering,Cross-functional Hotel Teams,Medium,Complete,playbook/01,prompt-library/010-prompt-verification-and-approval-checklist.md
+2,1,11,02-01-daily-operations-briefing,Daily Operations Briefing,Daily Operations,Operations Management,Medium,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/011-daily-operations-briefing.md
+2,2,12,02-02-shift-handover-analyzer,Shift Handover Analyzer,Daily Operations,Operations Management,Medium,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/012-shift-handover-analyzer.md
+2,3,13,02-03-operational-priority-planner,Operational Priority Planner,Daily Operations,Operations Management,Medium,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/013-operational-priority-planner.md
+2,4,14,02-04-department-dependency-mapper,Department Dependency Mapper,Daily Operations,Operations Management,Medium,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/014-department-dependency-mapper.md
+2,5,15,02-05-exception-escalation-analyzer,Exception Escalation Analyzer,Daily Operations,Operations Management,High,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/015-exception-escalation-analyzer.md
+2,6,16,02-06-daily-action-tracker,Daily Action Tracker,Daily Operations,Operations Management,Medium,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/016-daily-action-tracker.md
+2,7,17,02-07-manager-walk-around-planner,Manager Walk-Around Planner,Daily Operations,Operations Management,Low,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/017-manager-walk-around-planner.md
+2,8,18,02-08-service-recovery-coordination-brief,Service Recovery Coordination Brief,Daily Operations,Operations Management,High,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/018-service-recovery-coordination-brief.md
+2,9,19,02-09-cross-department-meeting-summary,Cross-Department Meeting Summary,Daily Operations,Operations Management,Medium,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/019-cross-department-meeting-summary.md
+2,10,20,02-10-end-of-day-operations-report,End-of-Day Operations Report,Daily Operations,Operations Management,Medium,Complete,playbook/02-hotel-operations-manager-ai-toolkit.md,prompt-library/020-end-of-day-operations-report.md
+3,1,21,03-01-arrival-readiness-brief,Arrival Readiness Brief,Front Office,Front office teams,Medium,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/021-arrival-readiness-brief.md
+3,2,22,03-02-check-in-communication-draft,Check-In Communication Draft,Front Office,Front office teams,Low–Medium,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/022-check-in-communication-draft.md
+3,3,23,03-03-queue-and-peak-arrival-planner,Queue and Peak Arrival Planner,Front Office,Front office teams,Medium,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/023-queue-and-peak-arrival-planner.md
+3,4,24,03-04-room-not-ready-response,Room-Not-Ready Response,Front Office,Front office teams,Medium–High,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/024-room-not-ready-response.md
+3,5,25,03-05-guest-request-triage,Guest Request Triage,Front Office,Front office teams,Medium,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/025-guest-request-triage.md
+3,6,26,03-06-checkout-readiness-planner,Checkout Readiness Planner,Front Office,Front office teams,Medium,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/026-checkout-readiness-planner.md
+3,7,27,03-07-front-desk-handover,Front Desk Handover,Front Office,Front office teams,Medium,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/027-front-desk-handover.md
+3,8,28,03-08-vip-arrival-checklist-builder,VIP Arrival Checklist Builder,Front Office,Front office teams,Medium–High,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/028-vip-arrival-checklist-builder.md
+3,9,29,03-09-front-office-exception-log-analyzer,Front Office Exception Log Analyzer,Front Office,Front office teams,Medium,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/029-front-office-exception-log-analyzer.md
+3,10,30,03-10-multilingual-guest-message-draft,Multilingual Guest Message Draft,Front Office,Front office teams,Medium,Complete,playbook/03-front-office-ai-toolkit.md,prompt-library/030-multilingual-guest-message-draft.md
+4,1,31,04-01-reservation-file-quality-check,Reservation File Quality Check,Reservations,Reservations teams,Medium,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/031-reservation-file-quality-check.md
+4,2,32,04-02-booking-modification-review,Booking Modification Review,Reservations,Reservations teams,High,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/032-booking-modification-review.md
+4,3,33,04-03-cancellation-policy-explanation-draft,Cancellation Policy Explanation Draft,Reservations,Reservations teams,High,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/033-cancellation-policy-explanation-draft.md
+4,4,34,04-04-no-show-review,No-Show Review,Reservations,Reservations teams,High,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/034-no-show-review.md
+4,5,35,04-05-room-type-allocation-support,Room-Type Allocation Support,Reservations,Reservations teams,High,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/035-room-type-allocation-support.md
+4,6,36,04-06-special-request-extraction,Special Request Extraction,Reservations,Reservations teams,Medium,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/036-special-request-extraction.md
+4,7,37,04-07-duplicate-booking-detector,Duplicate Booking Detector,Reservations,Reservations teams,High,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/037-duplicate-booking-detector.md
+4,8,38,04-08-reservation-handover-summary,Reservation Handover Summary,Reservations,Reservations teams,Medium,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/038-reservation-handover-summary.md
+4,9,39,04-09-corporate-booking-validation,Corporate Booking Validation,Reservations,Reservations teams,High,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/039-corporate-booking-validation.md
+4,10,40,04-10-reservation-exception-escalation,Reservation Exception Escalation,Reservations,Reservations teams,High,Complete,playbook/04-reservations-ai-toolkit.md,prompt-library/040-reservation-exception-escalation.md
+5,1,41,05-01-extended-stay-arrival-planner,Extended-Stay Arrival Planner,Serviced Apartments,Hotel apartment teams,Medium,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/041-extended-stay-arrival-planner.md
+5,2,42,05-02-apartment-readiness-review,Apartment Readiness Review,Serviced Apartments,Hotel apartment teams,High,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/042-apartment-readiness-review.md
+5,3,43,05-03-kitchen-and-appliance-checklist,Kitchen and Appliance Checklist,Serviced Apartments,Hotel apartment teams,Medium,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/043-kitchen-and-appliance-checklist.md
+5,4,44,05-04-long-stay-housekeeping-planner,Long-Stay Housekeeping Planner,Serviced Apartments,Hotel apartment teams,Medium,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/044-long-stay-housekeeping-planner.md
+5,5,45,05-05-resident-communication-draft,Resident Communication Draft,Serviced Apartments,Hotel apartment teams,Medium,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/045-resident-communication-draft.md
+5,6,46,05-06-utility-anomaly-review,Utility Anomaly Review,Serviced Apartments,Hotel apartment teams,High,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/046-utility-anomaly-review.md
+5,7,47,05-07-move-in-move-out-checklist,Move-In / Move-Out Checklist,Serviced Apartments,Hotel apartment teams,High,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/047-move-in-move-out-checklist.md
+5,8,48,05-08-extended-stay-complaint-analyzer,Extended-Stay Complaint Analyzer,Serviced Apartments,Hotel apartment teams,High,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/048-extended-stay-complaint-analyzer.md
+5,9,49,05-09-apartment-defect-history-summary,Apartment Defect History Summary,Serviced Apartments,Hotel apartment teams,Medium,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/049-apartment-defect-history-summary.md
+5,10,50,05-10-long-stay-service-personalization,Long-Stay Service Personalization,Serviced Apartments,Hotel apartment teams,Medium,Complete,playbook/05-hotel-apartment-extended-stay-ai-toolkit.md,prompt-library/050-long-stay-service-personalization.md
+6,1,51,06-01-room-readiness-planner,Room Readiness Planner,Housekeeping,Housekeeping leaders,High,Complete,playbook/06,prompt-library/051-room-readiness-planner.md
+6,2,52,06-02-housekeeping-assignment-support,Housekeeping Assignment Support,Housekeeping,Housekeeping leaders,Medium,Complete,playbook/06,prompt-library/052-housekeeping-assignment-support.md
+6,3,53,06-03-inspection-checklist-builder,Inspection Checklist Builder,Housekeeping,Housekeeping leaders,Medium,Complete,playbook/06,prompt-library/053-inspection-checklist-builder.md
+6,4,54,06-04-reclean-root-cause-analyzer,Reclean Root-Cause Analyzer,Housekeeping,Housekeeping leaders,Medium,Complete,playbook/06,prompt-library/054-reclean-root-cause-analyzer.md
+6,5,55,06-05-linen-par-review,Linen PAR Review,Housekeeping,Housekeeping leaders,Medium,Complete,playbook/06,prompt-library/055-linen-par-review.md
+6,6,56,06-06-amenity-consumption-analyzer,Amenity Consumption Analyzer,Housekeeping,Housekeeping leaders,Medium,Complete,playbook/06,prompt-library/056-amenity-consumption-analyzer.md
+6,7,57,06-07-housekeeping-productivity-review,Housekeeping Productivity Review,Housekeeping,Housekeeping leaders,High,Complete,playbook/06,prompt-library/057-housekeeping-productivity-review.md
+6,8,58,06-08-deep-clean-planner,Deep-Clean Planner,Housekeeping,Housekeeping leaders,Medium,Complete,playbook/06,prompt-library/058-deep-clean-planner.md
+6,9,59,06-09-lost-and-found-draft-workflow,Lost-and-Found Draft Workflow,Housekeeping,Housekeeping leaders,High,Complete,playbook/06,prompt-library/059-lost-and-found-draft-workflow.md
+6,10,60,06-10-housekeeping-shift-handover,Housekeeping Shift Handover,Housekeeping,Housekeeping leaders,Medium,Complete,playbook/06,prompt-library/060-housekeeping-shift-handover.md
+7,1,61,07-01-work-order-triage,Work Order Triage,Engineering,Engineering teams,High,Complete,playbook/07,prompt-library/061-work-order-triage.md
+7,2,62,07-02-preventive-maintenance-planner,Preventive Maintenance Planner,Engineering,Engineering teams,High,Complete,playbook/07,prompt-library/062-preventive-maintenance-planner.md
+7,3,63,07-03-repeat-defect-analyzer,Repeat Defect Analyzer,Engineering,Engineering teams,Medium,Complete,playbook/07,prompt-library/063-repeat-defect-analyzer.md
+7,4,64,07-04-first-time-fix-review,First-Time-Fix Review,Engineering,Engineering teams,Medium,Complete,playbook/07,prompt-library/064-first-time-fix-review.md
+7,5,65,07-05-asset-history-summary,Asset History Summary,Engineering,Engineering teams,Medium,Complete,playbook/07,prompt-library/065-asset-history-summary.md
+7,6,66,07-06-engineering-shift-handover,Engineering Shift Handover,Engineering,Engineering teams,High,Complete,playbook/07,prompt-library/066-engineering-shift-handover.md
+7,7,67,07-07-critical-spare-parts-planner,Critical Spare Parts Planner,Engineering,Engineering teams,Medium,Complete,playbook/07,prompt-library/067-critical-spare-parts-planner.md
+7,8,68,07-08-room-out-of-service-risk-review,Room Out-of-Service Risk Review,Engineering,Engineering teams,High,Complete,playbook/07,prompt-library/068-room-out-of-service-risk-review.md
+7,9,69,07-09-maintenance-vendor-comparison,Maintenance Vendor Comparison,Engineering,Engineering teams,High,Complete,playbook/07,prompt-library/069-maintenance-vendor-comparison.md
+7,10,70,07-10-technical-incident-summary,Technical Incident Summary,Engineering,Engineering teams,High,Complete,playbook/07,prompt-library/070-technical-incident-summary.md
+8,1,71,08-01-failure-pattern-detector,Failure Pattern Detector,Predictive Maintenance,Engineering and quality teams,High,Complete,playbook/08,prompt-library/071-failure-pattern-detector.md
+8,2,72,08-02-asset-anomaly-review,Asset Anomaly Review,Predictive Maintenance,Engineering and quality teams,High,Complete,playbook/08,prompt-library/072-asset-anomaly-review.md
+8,3,73,08-03-predictive-maintenance-hypothesis-builder,Predictive Maintenance Hypothesis Builder,Predictive Maintenance,Engineering and quality teams,High,Complete,playbook/08,prompt-library/073-predictive-maintenance-hypothesis-builder.md
+8,4,74,08-04-pm-interval-review,PM Interval Review,Predictive Maintenance,Engineering and quality teams,High,Complete,playbook/08,prompt-library/074-pm-interval-review.md
+8,5,75,08-05-high-risk-asset-prioritizer,High-Risk Asset Prioritizer,Predictive Maintenance,Engineering and quality teams,High,Complete,playbook/08,prompt-library/075-high-risk-asset-prioritizer.md
+8,6,76,08-06-repeat-failure-correlation-review,Repeat Failure Correlation Review,Predictive Maintenance,Engineering and quality teams,Medium,Complete,playbook/08,prompt-library/076-repeat-failure-correlation-review.md
+8,7,77,08-07-maintenance-data-quality-audit,Maintenance Data Quality Audit,Predictive Maintenance,Engineering and quality teams,Medium,Complete,playbook/08,prompt-library/077-maintenance-data-quality-audit.md
+8,8,78,08-08-downtime-forecast-scenario,Downtime Forecast Scenario,Predictive Maintenance,Engineering and quality teams,High,Complete,playbook/08,prompt-library/078-downtime-forecast-scenario.md
+8,9,79,08-09-early-warning-indicator-designer,Early-Warning Indicator Designer,Predictive Maintenance,Engineering and quality teams,High,Complete,playbook/08,prompt-library/079-early-warning-indicator-designer.md
+8,10,80,08-10-predictive-maintenance-validation-plan,Predictive Maintenance Validation Plan,Predictive Maintenance,Engineering and quality teams,High,Complete,playbook/08,prompt-library/080-predictive-maintenance-validation-plan.md
+9,1,81,09-01-guest-journey-review,Guest Journey Review,Guest Experience,Guest relations and cross-functional hotel teams,Medium,Complete,playbook/09,prompt-library/081-guest-journey-review.md
+9,2,82,09-02-guest-request-personalization-draft,Guest Request Personalization Draft,Guest Experience,Guest relations and cross-functional hotel teams,Medium,Complete,playbook/09,prompt-library/082-guest-request-personalization-draft.md
+9,3,83,09-03-pre-arrival-communication-planner,Pre-Arrival Communication Planner,Guest Experience,Guest relations and cross-functional hotel teams,Medium,Complete,playbook/09,prompt-library/083-pre-arrival-communication-planner.md
+9,4,84,09-04-in-stay-experience-review,In-Stay Experience Review,Guest Experience,Guest relations and cross-functional hotel teams,Medium,Complete,playbook/09,prompt-library/084-in-stay-experience-review.md
+9,5,85,09-05-post-stay-follow-up-draft,Post-Stay Follow-Up Draft,Guest Experience,Guest relations and cross-functional hotel teams,Low,Complete,playbook/09,prompt-library/085-post-stay-follow-up-draft.md
+9,6,86,09-06-guest-preference-summary,Guest Preference Summary,Guest Experience,Guest relations and cross-functional hotel teams,Medium,Complete,playbook/09,prompt-library/086-guest-preference-summary.md
+9,7,87,09-07-special-occasion-planning-support,Special Occasion Planning Support,Guest Experience,Guest relations and cross-functional hotel teams,Medium,Complete,playbook/09,prompt-library/087-special-occasion-planning-support.md
+9,8,88,09-08-accessibility-request-review,Accessibility Request Review,Guest Experience,Guest relations and cross-functional hotel teams,High,Complete,playbook/09,prompt-library/088-accessibility-request-review.md
+9,9,89,09-09-service-touchpoint-audit,Service Touchpoint Audit,Guest Experience,Guest relations and cross-functional hotel teams,Medium,Complete,playbook/09,prompt-library/089-service-touchpoint-audit.md
+9,10,90,09-10-guest-experience-improvement-backlog,Guest Experience Improvement Backlog,Guest Experience,Guest relations and cross-functional hotel teams,Medium,Complete,playbook/09,prompt-library/090-guest-experience-improvement-backlog.md
+10,1,91,10-01-complaint-triage,Complaint Triage,Service Recovery,"Guest relations, duty management and quality",Medium,Complete,playbook/10,prompt-library/091-complaint-triage.md
+10,2,92,10-02-complaint-root-cause-analyzer,Complaint Root-Cause Analyzer,Service Recovery,"Guest relations, duty management and quality",Medium,Complete,playbook/10,prompt-library/092-complaint-root-cause-analyzer.md
+10,3,93,10-03-service-recovery-options-draft,Service Recovery Options Draft,Service Recovery,"Guest relations, duty management and quality",High,Complete,playbook/10,prompt-library/093-service-recovery-options-draft.md
+10,4,94,10-04-compensation-authority-check,Compensation Authority Check,Service Recovery,"Guest relations, duty management and quality",High,Complete,playbook/10,prompt-library/094-compensation-authority-check.md
+10,5,95,10-05-escalation-summary,Escalation Summary,Service Recovery,"Guest relations, duty management and quality",High,Complete,playbook/10,prompt-library/095-escalation-summary.md
+10,6,96,10-06-complaint-response-draft,Complaint Response Draft,Service Recovery,"Guest relations, duty management and quality",Medium,Complete,playbook/10,prompt-library/096-complaint-response-draft.md
+10,7,97,10-07-repeat-complaint-pattern-review,Repeat Complaint Pattern Review,Service Recovery,"Guest relations, duty management and quality",Medium,Complete,playbook/10,prompt-library/097-repeat-complaint-pattern-review.md
+10,8,98,10-08-negative-review-recovery-draft,Negative Review Recovery Draft,Service Recovery,"Guest relations, duty management and quality",Medium,Complete,playbook/10,prompt-library/098-negative-review-recovery-draft.md
+10,9,99,10-09-complaint-closure-checklist,Complaint Closure Checklist,Service Recovery,"Guest relations, duty management and quality",Medium,Complete,playbook/10,prompt-library/099-complaint-closure-checklist.md
+10,10,100,10-10-capa-builder,CAPA Builder,Service Recovery,"Guest relations, duty management and quality",High,Complete,playbook/10,prompt-library/100-capa-builder.md
+11,1,101,11-01-quality-audit-planner,Quality Audit Planner,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/101-quality-audit-planner.md
+11,2,102,11-02-room-audit-checklist,Room Audit Checklist,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/102-room-audit-checklist.md
+11,3,103,11-03-process-compliance-review,Process Compliance Review,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/103-process-compliance-review.md
+11,4,104,11-04-audit-finding-classifier,Audit Finding Classifier,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/104-audit-finding-classifier.md
+11,5,105,11-05-nonconformity-report-draft,Nonconformity Report Draft,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/105-nonconformity-report-draft.md
+11,6,106,11-06-quality-trend-analyzer,Quality Trend Analyzer,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/106-quality-trend-analyzer.md
+11,7,107,11-07-mystery-guest-finding-review,Mystery Guest Finding Review,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/107-mystery-guest-finding-review.md
+11,8,108,11-08-department-audit-summary,Department Audit Summary,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/108-department-audit-summary.md
+11,9,109,11-09-evidence-gap-detector,Evidence Gap Detector,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/109-evidence-gap-detector.md
+11,10,110,11-10-corrective-action-effectiveness-review,Corrective Action Effectiveness Review,Quality Assurance,Quality managers,Medium,Registered,playbook/11,prompt-library/110-corrective-action-effectiveness-review.md
+12,1,111,12-01-sop-structure-builder,SOP Structure Builder,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/111-sop-structure-builder.md
+12,2,112,12-02-procedure-draft-builder,Procedure Draft Builder,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/112-procedure-draft-builder.md
+12,3,113,12-03-raci-designer,RACI Designer,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/113-raci-designer.md
+12,4,114,12-04-exception-and-escalation-matrix,Exception and Escalation Matrix,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/114-exception-and-escalation-matrix.md
+12,5,115,12-05-sop-evidence-record-designer,SOP Evidence Record Designer,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/115-sop-evidence-record-designer.md
+12,6,116,12-06-sop-kpi-designer,SOP KPI Designer,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/116-sop-kpi-designer.md
+12,7,117,12-07-work-instruction-builder,Work Instruction Builder,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/117-work-instruction-builder.md
+12,8,118,12-08-checklist-generator,Checklist Generator,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/118-checklist-generator.md
+12,9,119,12-09-sop-gap-audit,SOP Gap Audit,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/119-sop-gap-audit.md
+12,10,120,12-10-document-revision-impact-review,Document Revision Impact Review,SOP & Process Design,Quality and operations teams,Medium,Registered,playbook/12,prompt-library/120-document-revision-impact-review.md
+13,1,121,13-01-dmaic-project-charter-builder,DMAIC Project Charter Builder,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/121-dmaic-project-charter-builder.md
+13,2,122,13-02-voc-to-ctq-converter,VOC to CTQ Converter,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/122-voc-to-ctq-converter.md
+13,3,123,13-03-pareto-analyzer,Pareto Analyzer,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/123-pareto-analyzer.md
+13,4,124,13-04-root-cause-hypothesis-builder,Root-Cause Hypothesis Builder,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/124-root-cause-hypothesis-builder.md
+13,5,125,13-05-fishbone-facilitator,Fishbone Facilitator,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/125-fishbone-facilitator.md
+13,6,126,13-06-fmea-draft-assistant,FMEA Draft Assistant,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/126-fmea-draft-assistant.md
+13,7,127,13-07-cost-of-poor-quality-analyzer,Cost of Poor Quality Analyzer,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/127-cost-of-poor-quality-analyzer.md
+13,8,128,13-08-process-capability-review-planner,Process Capability Review Planner,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/128-process-capability-review-planner.md
+13,9,129,13-09-control-plan-builder,Control Plan Builder,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/129-control-plan-builder.md
+13,10,130,13-10-kaizen-opportunity-prioritizer,Kaizen Opportunity Prioritizer,Lean Six Sigma,Quality and process-improvement teams,Medium,Registered,playbook/13,prompt-library/130-kaizen-opportunity-prioritizer.md
+14,1,131,14-01-hotel-esg-baseline-builder,Hotel ESG Baseline Builder,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/131-hotel-esg-baseline-builder.md
+14,2,132,14-02-sustainability-initiative-business-case,Sustainability Initiative Business Case,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/132-sustainability-initiative-business-case.md
+14,3,133,14-03-esg-kpi-designer,ESG KPI Designer,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/133-esg-kpi-designer.md
+14,4,134,14-04-waste-reduction-planner,Waste Reduction Planner,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/134-waste-reduction-planner.md
+14,5,135,14-05-laundry-sustainability-review,Laundry Sustainability Review,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/135-laundry-sustainability-review.md
+14,6,136,14-06-amenity-waste-analyzer,Amenity Waste Analyzer,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/136-amenity-waste-analyzer.md
+14,7,137,14-07-responsible-sourcing-review,Responsible Sourcing Review,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/137-responsible-sourcing-review.md
+14,8,138,14-08-guest-sustainability-communication-draft,Guest Sustainability Communication Draft,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/138-guest-sustainability-communication-draft.md
+14,9,139,14-09-esg-action-register,ESG Action Register,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/139-esg-action-register.md
+14,10,140,14-10-sustainability-performance-summary,Sustainability Performance Summary,ESG,Sustainability and operations teams,Medium,Registered,playbook/14,prompt-library/140-sustainability-performance-summary.md
+15,1,141,15-01-electricity-intensity-analyzer,Electricity Intensity Analyzer,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/141-electricity-intensity-analyzer.md
+15,2,142,15-02-cooling-cost-review,Cooling Cost Review,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/142-cooling-cost-review.md
+15,3,143,15-03-vacant-unit-energy-planner,Vacant-Unit Energy Planner,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/143-vacant-unit-energy-planner.md
+15,4,144,15-04-water-intensity-analyzer,Water Intensity Analyzer,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/144-water-intensity-analyzer.md
+15,5,145,15-05-leak-pattern-review,Leak Pattern Review,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/145-leak-pattern-review.md
+15,6,146,15-06-utility-variance-explainer,Utility Variance Explainer,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/146-utility-variance-explainer.md
+15,7,147,15-07-meter-data-anomaly-detector,Meter Data Anomaly Detector,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/147-meter-data-anomaly-detector.md
+15,8,148,15-08-energy-saving-business-case,Energy Saving Business Case,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/148-energy-saving-business-case.md
+15,9,149,15-09-utility-kpi-dashboard-designer,Utility KPI Dashboard Designer,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/149-utility-kpi-dashboard-designer.md
+15,10,150,15-10-monthly-utility-management-report,Monthly Utility Management Report,Utilities,Engineering and finance teams,Medium,Registered,playbook/15,prompt-library/150-monthly-utility-management-report.md
+16,1,151,16-01-supplier-comparison-matrix,Supplier Comparison Matrix,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/151-supplier-comparison-matrix.md
+16,2,152,16-02-lifecycle-cost-analyzer,Lifecycle Cost Analyzer,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/152-lifecycle-cost-analyzer.md
+16,3,153,16-03-purchase-request-reviewer,Purchase Request Reviewer,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/153-purchase-request-reviewer.md
+16,4,154,16-04-procurement-specification-builder,Procurement Specification Builder,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/154-procurement-specification-builder.md
+16,5,155,16-05-supplier-risk-review,Supplier Risk Review,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/155-supplier-risk-review.md
+16,6,156,16-06-contract-requirement-checklist,Contract Requirement Checklist,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/156-contract-requirement-checklist.md
+16,7,157,16-07-emergency-purchase-root-cause-review,Emergency Purchase Root-Cause Review,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/157-emergency-purchase-root-cause-review.md
+16,8,158,16-08-responsible-sourcing-screen,Responsible Sourcing Screen,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/158-responsible-sourcing-screen.md
+16,9,159,16-09-procurement-savings-tracker,Procurement Savings Tracker,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/159-procurement-savings-tracker.md
+16,10,160,16-10-vendor-performance-review,Vendor Performance Review,Procurement,Procurement teams,Medium,Registered,playbook/16,prompt-library/160-vendor-performance-review.md
+17,1,161,17-01-par-level-calculator-assistant,PAR Level Calculator Assistant,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/161-par-level-calculator-assistant.md
+17,2,162,17-02-reorder-point-planner,Reorder Point Planner,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/162-reorder-point-planner.md
+17,3,163,17-03-slow-moving-stock-analyzer,Slow-Moving Stock Analyzer,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/163-slow-moving-stock-analyzer.md
+17,4,164,17-04-stockout-root-cause-review,Stockout Root-Cause Review,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/164-stockout-root-cause-review.md
+17,5,165,17-05-linen-inventory-planner,Linen Inventory Planner,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/165-linen-inventory-planner.md
+17,6,166,17-06-amenity-inventory-review,Amenity Inventory Review,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/166-amenity-inventory-review.md
+17,7,167,17-07-critical-spares-register-builder,Critical Spares Register Builder,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/167-critical-spares-register-builder.md
+17,8,168,17-08-inventory-count-variance-analyzer,Inventory Count Variance Analyzer,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/168-inventory-count-variance-analyzer.md
+17,9,169,17-09-expiry-and-obsolescence-review,Expiry and Obsolescence Review,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/169-expiry-and-obsolescence-review.md
+17,10,170,17-10-inventory-kpi-dashboard,Inventory KPI Dashboard,Inventory,"Housekeeping, stores and procurement",Medium,Registered,playbook/17,prompt-library/170-inventory-kpi-dashboard.md
+18,1,171,18-01-daily-revenue-brief,Daily Revenue Brief,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/171-daily-revenue-brief.md
+18,2,172,18-02-demand-driver-review,Demand Driver Review,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/172-demand-driver-review.md
+18,3,173,18-03-forecast-assumption-checker,Forecast Assumption Checker,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/173-forecast-assumption-checker.md
+18,4,174,18-04-adr-and-occupancy-analyzer,ADR and Occupancy Analyzer,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/174-adr-and-occupancy-analyzer.md
+18,5,175,18-05-revpar-diagnostic,RevPAR Diagnostic,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/175-revpar-diagnostic.md
+18,6,176,18-06-rate-recommendation-draft,Rate Recommendation Draft,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/176-rate-recommendation-draft.md
+18,7,177,18-07-length-of-stay-opportunity-review,Length-of-Stay Opportunity Review,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/177-length-of-stay-opportunity-review.md
+18,8,178,18-08-channel-mix-analyzer,Channel Mix Analyzer,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/178-channel-mix-analyzer.md
+18,9,179,18-09-pickup-and-pace-review,Pickup and Pace Review,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/179-pickup-and-pace-review.md
+18,10,180,18-10-revenue-meeting-brief,Revenue Meeting Brief,Revenue Management,Revenue teams,Medium,Registered,playbook/18,prompt-library/180-revenue-meeting-brief.md
+19,1,181,19-01-corporate-account-research-brief,Corporate Account Research Brief,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/181-corporate-account-research-brief.md
+19,2,182,19-02-b2b-proposal-draft,B2B Proposal Draft,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/182-b2b-proposal-draft.md
+19,3,183,19-03-rfp-response-builder,RFP Response Builder,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/183-rfp-response-builder.md
+19,4,184,19-04-account-plan-generator,Account Plan Generator,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/184-account-plan-generator.md
+19,5,185,19-05-corporate-rate-review,Corporate Rate Review,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/185-corporate-rate-review.md
+19,6,186,19-06-sales-pipeline-summary,Sales Pipeline Summary,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/186-sales-pipeline-summary.md
+19,7,187,19-07-meeting-preparation-brief,Meeting Preparation Brief,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/187-meeting-preparation-brief.md
+19,8,188,19-08-lost-business-analyzer,Lost Business Analyzer,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/188-lost-business-analyzer.md
+19,9,189,19-09-long-stay-corporate-offer-builder,Long-Stay Corporate Offer Builder,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/189-long-stay-corporate-offer-builder.md
+19,10,190,19-10-account-performance-review,Account Performance Review,Sales,Sales and corporate account teams,Medium,Registered,playbook/19,prompt-library/190-account-performance-review.md
+20,1,191,20-01-ota-listing-quality-audit,OTA Listing Quality Audit,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/191-ota-listing-quality-audit.md
+20,2,192,20-02-channel-content-consistency-check,Channel Content Consistency Check,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/192-channel-content-consistency-check.md
+20,3,193,20-03-review-theme-analyzer,Review Theme Analyzer,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/193-review-theme-analyzer.md
+20,4,194,20-04-review-response-draft,Review Response Draft,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/194-review-response-draft.md
+20,5,195,20-05-distribution-mix-review,Distribution Mix Review,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/195-distribution-mix-review.md
+20,6,196,20-06-commission-cost-analyzer,Commission Cost Analyzer,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/196-commission-cost-analyzer.md
+20,7,197,20-07-rate-parity-investigation-planner,Rate Parity Investigation Planner,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/197-rate-parity-investigation-planner.md
+20,8,198,20-08-promotion-performance-review,Promotion Performance Review,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/198-promotion-performance-review.md
+20,9,199,20-09-content-improvement-backlog,Content Improvement Backlog,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/199-content-improvement-backlog.md
+20,10,200,20-10-reputation-management-brief,Reputation Management Brief,Distribution & Reputation,E-commerce and distribution teams,Medium,Registered,playbook/20,prompt-library/200-reputation-management-brief.md
+21,1,201,21-01-department-cost-variance-analyzer,Department Cost Variance Analyzer,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/201-department-cost-variance-analyzer.md
+21,2,202,21-02-monthly-p-l-commentary-draft,Monthly P&L Commentary Draft,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/202-monthly-p-l-commentary-draft.md
+21,3,203,21-03-cost-per-occupied-night-review,Cost per Occupied Night Review,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/203-cost-per-occupied-night-review.md
+21,4,204,21-04-budget-assumption-checker,Budget Assumption Checker,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/204-budget-assumption-checker.md
+21,5,205,21-05-forecast-scenario-builder,Forecast Scenario Builder,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/205-forecast-scenario-builder.md
+21,6,206,21-06-expense-anomaly-review,Expense Anomaly Review,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/206-expense-anomaly-review.md
+21,7,207,21-07-cost-saving-business-case,Cost-Saving Business Case,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/207-cost-saving-business-case.md
+21,8,208,21-08-hotel-apartment-unit-economics-review,Hotel Apartment Unit Economics Review,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/208-hotel-apartment-unit-economics-review.md
+21,9,209,21-09-cash-impact-prioritizer,Cash Impact Prioritizer,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/209-cash-impact-prioritizer.md
+21,10,210,21-10-monthly-finance-operations-brief,Monthly Finance-Operations Brief,Finance,Finance and operations leaders,Medium,Registered,playbook/21,prompt-library/210-monthly-finance-operations-brief.md
+22,1,211,22-01-kpi-architecture-builder,KPI Architecture Builder,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/211-kpi-architecture-builder.md
+22,2,212,22-02-dashboard-requirement-designer,Dashboard Requirement Designer,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/212-dashboard-requirement-designer.md
+22,3,213,22-03-metric-definition-checker,Metric Definition Checker,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/213-metric-definition-checker.md
+22,4,214,22-04-executive-kpi-summary,Executive KPI Summary,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/214-executive-kpi-summary.md
+22,5,215,22-05-department-scorecard-builder,Department Scorecard Builder,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/215-department-scorecard-builder.md
+22,6,216,22-06-variance-and-trend-analyzer,Variance and Trend Analyzer,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/216-variance-and-trend-analyzer.md
+22,7,217,22-07-leading-vs-lagging-kpi-classifier,Leading vs Lagging KPI Classifier,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/217-leading-vs-lagging-kpi-classifier.md
+22,8,218,22-08-data-quality-review,Data Quality Review,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/218-data-quality-review.md
+22,9,219,22-09-management-commentary-draft,Management Commentary Draft,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/219-management-commentary-draft.md
+22,10,220,22-10-kpi-action-tracker,KPI Action Tracker,Analytics,Managers and analysts,Medium,Registered,playbook/22,prompt-library/220-kpi-action-tracker.md
+23,1,221,23-01-roster-demand-planner,Roster Demand Planner,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/221-roster-demand-planner.md
+23,2,222,23-02-workload-vs-staffing-review,Workload vs Staffing Review,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/222-workload-vs-staffing-review.md
+23,3,223,23-03-overtime-pattern-analyzer,Overtime Pattern Analyzer,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/223-overtime-pattern-analyzer.md
+23,4,224,23-04-productivity-kpi-review,Productivity KPI Review,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/224-productivity-kpi-review.md
+23,5,225,23-05-training-need-detector,Training Need Detector,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/225-training-need-detector.md
+23,6,226,23-06-shift-handover-quality-review,Shift Handover Quality Review,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/226-shift-handover-quality-review.md
+23,7,227,23-07-cross-training-plan-builder,Cross-Training Plan Builder,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/227-cross-training-plan-builder.md
+23,8,228,23-08-peak-period-staffing-scenario,Peak Period Staffing Scenario,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/228-peak-period-staffing-scenario.md
+23,9,229,23-09-absence-impact-planner,Absence Impact Planner,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/229-absence-impact-planner.md
+23,10,230,23-10-workforce-productivity-brief,Workforce Productivity Brief,Workforce,Department heads and HR operations,Medium,Registered,playbook/23,prompt-library/230-workforce-productivity-brief.md
+24,1,231,24-01-gm-morning-brief,GM Morning Brief,General Management,General managers,Medium,Registered,playbook/24,prompt-library/231-gm-morning-brief.md
+24,2,232,24-02-executive-business-review-draft,Executive Business Review Draft,General Management,General managers,Medium,Registered,playbook/24,prompt-library/232-executive-business-review-draft.md
+24,3,233,24-03-department-performance-challenge,Department Performance Challenge,General Management,General managers,Medium,Registered,playbook/24,prompt-library/233-department-performance-challenge.md
+24,4,234,24-04-risk-register-review,Risk Register Review,General Management,General managers,Medium,Registered,playbook/24,prompt-library/234-risk-register-review.md
+24,5,235,24-05-strategic-priority-planner,Strategic Priority Planner,General Management,General managers,Medium,Registered,playbook/24,prompt-library/235-strategic-priority-planner.md
+24,6,236,24-06-owner-meeting-preparation,Owner Meeting Preparation,General Management,General managers,Medium,Registered,playbook/24,prompt-library/236-owner-meeting-preparation.md
+24,7,237,24-07-monthly-performance-narrative,Monthly Performance Narrative,General Management,General managers,Medium,Registered,playbook/24,prompt-library/237-monthly-performance-narrative.md
+24,8,238,24-08-decision-memo-builder,Decision Memo Builder,General Management,General managers,Medium,Registered,playbook/24,prompt-library/238-decision-memo-builder.md
+24,9,239,24-09-leadership-action-tracker,Leadership Action Tracker,General Management,General managers,Medium,Registered,playbook/24,prompt-library/239-leadership-action-tracker.md
+24,10,240,24-10-gm-weekly-operating-review,GM Weekly Operating Review,General Management,General managers,Medium,Registered,playbook/24,prompt-library/240-gm-weekly-operating-review.md
+25,1,241,25-01-hotel-control-tower-daily-brief,Hotel Control Tower Daily Brief,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/241-hotel-control-tower-daily-brief.md
+25,2,242,25-02-cross-department-exception-prioritizer,Cross-Department Exception Prioritizer,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/242-cross-department-exception-prioritizer.md
+25,3,243,25-03-operational-health-score-designer,Operational Health Score Designer,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/243-operational-health-score-designer.md
+25,4,244,25-04-guest-risk-revenue-integrated-review,Guest-Risk-Revenue Integrated Review,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/244-guest-risk-revenue-integrated-review.md
+25,5,245,25-05-apartment-reliability-heatmap-planner,Apartment Reliability Heatmap Planner,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/245-apartment-reliability-heatmap-planner.md
+25,6,246,25-06-control-tower-alert-logic-builder,Control Tower Alert Logic Builder,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/246-control-tower-alert-logic-builder.md
+25,7,247,25-07-management-escalation-queue,Management Escalation Queue,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/247-management-escalation-queue.md
+25,8,248,25-08-scenario-response-coordinator,Scenario Response Coordinator,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/248-scenario-response-coordinator.md
+25,9,249,25-09-executive-control-tower-summary,Executive Control Tower Summary,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/249-executive-control-tower-summary.md
+25,10,250,25-10-control-tower-governance-checklist,Control Tower Governance Checklist,Control Tower,Executive and cross-functional teams,Medium,Registered,playbook/25,prompt-library/250-control-tower-governance-checklist.md
+26,1,251,26-01-ai-use-case-risk-assessment,AI Use-Case Risk Assessment,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/251-ai-use-case-risk-assessment.md
+26,2,252,26-02-hotel-ai-authority-matrix,Hotel AI Authority Matrix,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/252-hotel-ai-authority-matrix.md
+26,3,253,26-03-privacy-and-data-minimization-review,Privacy and Data-Minimization Review,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/253-privacy-and-data-minimization-review.md
+26,4,254,26-04-prompt-approval-workflow,Prompt Approval Workflow,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/254-prompt-approval-workflow.md
+26,5,255,26-05-ai-output-verification-checklist,AI Output Verification Checklist,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/255-ai-output-verification-checklist.md
+26,6,256,26-06-ai-incident-response-plan,AI Incident Response Plan,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/256-ai-incident-response-plan.md
+26,7,257,26-07-approved-tool-assessment,Approved Tool Assessment,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/257-approved-tool-assessment.md
+26,8,258,26-08-prompt-version-control-register,Prompt Version-Control Register,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/258-prompt-version-control-register.md
+26,9,259,26-09-human-oversight-design,Human Oversight Design,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/259-human-oversight-design.md
+26,10,260,26-10-quarterly-ai-governance-review,Quarterly AI Governance Review,AI Governance,"Leadership, IT, legal, privacy and operations",Medium,Registered,playbook/26,prompt-library/260-quarterly-ai-governance-review.md
