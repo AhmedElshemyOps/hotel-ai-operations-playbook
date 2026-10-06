@@ -14,7 +14,7 @@ Hotel Operations · Serviced Apartments · Guest Experience · Quality · Revenu
 
 - **Articles 01–10: complete — HOTEL Framework through Guest Complaint & Service Recovery**
 - **Prompts 001–100: complete and copy-ready**
-- **Articles 08–26:** structured roadmap with 190 registered prompt records awaiting chapter-by-chapter editorial completion
+- **Articles 11–26:** structured roadmap with 160 registered prompt records awaiting chapter-by-chapter editorial completion
 - **Repository validation:** 26 chapters / 260 unique prompt records
 
 ## What this project is
