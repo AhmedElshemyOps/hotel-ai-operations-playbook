@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.13.0 — 2026-10-07
+
+- Completed Article 12: Hotel SOP & Process Design AI Toolkit.
+- Added Prompts 111–120 as governed templates.
+- Added process discovery, RACI/authority, exception, evidence, KPI, work-instruction, checklist, gap-audit and revision-impact controls.
+- Standardized the website edition to the Tourism Quality & SOP AI Toolkit component system.
+
+
 ## 0.12.1 — 2026-10-07
 
 - Upgraded Articles 01–10 to the Article 11 premium website standard.
