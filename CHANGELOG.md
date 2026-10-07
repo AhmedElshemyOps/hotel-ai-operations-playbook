@@ -1,3 +1,11 @@
+## 0.18.0 — 2026-10-07
+
+- Consolidated and published Articles 16–24.
+- Completed canonical prompt library through Prompt 240.
+- Synchronized JSON and CSV registries.
+- Aligned Article 16 legacy prompt labels with the canonical registry.
+- Published website editions for Articles 16–24 and prepared series/discovery integration.
+
 ## 0.17.0 — 2026-10-07
 
 - Published Article 20: Hotel OTA, Distribution & Review Management AI Toolkit.
