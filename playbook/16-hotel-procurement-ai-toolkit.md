@@ -988,7 +988,7 @@ If quotations are not comparable, a mandatory specification is missing, a confli
 
 ---
 
-### Prompt 156 — Negotiation Preparation Planner
+### Prompt 156 — Contract Requirement Checklist
 
 **When to use:** Prepare a controlled supplier-negotiation brief without authorizing commitments or inventing leverage.
 
