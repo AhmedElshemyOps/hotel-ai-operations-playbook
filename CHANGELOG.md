@@ -1,3 +1,11 @@
+## 0.19.0 — 2026-10-07
+
+- Published Article 25 — Hotel Control Tower & AI Decision-Support Toolkit.
+- Published Article 26 — Responsible AI Governance for Hotels.
+- Completed prompt library 241–260.
+- Completed the 26-article / 260-prompt Hotel & Serviced Apartment AI Operations Playbook.
+- Synchronized website, registry and series completion metadata.
+
 ## 0.18.0 — 2026-10-07
 
 - Consolidated and published Articles 16–24.
