@@ -12,8 +12,8 @@ Hotel Operations · Serviced Apartments · Guest Experience · Quality · Revenu
 
 ## Current build status
 
-- **Articles 01–15: complete — HOTEL Framework through Energy & Utility Management**
-- **Prompts 001–150: complete and copy-ready**
+- **Articles 01–15 and Article 20: complete — Article 20 OTA, Distribution & Review Management published; Articles 16–19 remain to be synchronized**
+- **Prompts 001–150 and 191–200: complete and copy-ready**
 - **Articles 16–26:** structured roadmap with 110 registered prompt records awaiting chapter-by-chapter editorial completion
 - **Repository validation:** 26 chapters / 260 unique prompt records
 
@@ -112,3 +112,8 @@ The repository is designed to grow article-by-article. Article 01 establishes th
 
 **Ahmed Mahmoud** — Tourism Operations × Product × AI  
 Professional website: https://ahmedqualityops.com/
+
+
+### Article 20 — Hotel OTA, Distribution & Review Management AI Toolkit
+
+Prompts 191–200 are complete and published, covering OTA listing quality, channel content consistency, review themes and responses, distribution mix, commission cost, rate parity investigation, promotion performance, content improvement and reputation management.
