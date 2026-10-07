@@ -2168,8 +2168,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/151-supplier-comparison-matrix.md"
   },
   {
@@ -2181,8 +2181,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/152-lifecycle-cost-analyzer.md"
   },
   {
@@ -2194,8 +2194,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/153-purchase-request-reviewer.md"
   },
   {
@@ -2207,8 +2207,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/154-procurement-specification-builder.md"
   },
   {
@@ -2220,8 +2220,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/155-supplier-risk-review.md"
   },
   {
@@ -2233,8 +2233,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/156-contract-requirement-checklist.md"
   },
   {
@@ -2246,8 +2246,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/157-emergency-purchase-root-cause-review.md"
   },
   {
@@ -2259,8 +2259,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/158-responsible-sourcing-screen.md"
   },
   {
@@ -2272,8 +2272,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/159-procurement-savings-tracker.md"
   },
   {
@@ -2285,8 +2285,8 @@
     "category": "Procurement",
     "department": "Procurement teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/16",
+    "status": "Complete",
+    "source_article": "playbook/16-hotel-procurement-ai-toolkit.md",
     "prompt_file": "prompt-library/160-vendor-performance-review.md"
   },
   {
@@ -2298,8 +2298,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/161-par-level-calculator-assistant.md"
   },
   {
@@ -2311,8 +2311,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/162-reorder-point-planner.md"
   },
   {
@@ -2324,8 +2324,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/163-slow-moving-stock-analyzer.md"
   },
   {
@@ -2337,8 +2337,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/164-stockout-root-cause-review.md"
   },
   {
@@ -2350,8 +2350,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/165-linen-inventory-planner.md"
   },
   {
@@ -2363,8 +2363,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/166-amenity-inventory-review.md"
   },
   {
@@ -2376,8 +2376,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/167-critical-spares-register-builder.md"
   },
   {
@@ -2389,8 +2389,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/168-inventory-count-variance-analyzer.md"
   },
   {
@@ -2402,8 +2402,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/169-expiry-and-obsolescence-review.md"
   },
   {
@@ -2415,8 +2415,8 @@
     "category": "Inventory",
     "department": "Housekeeping, stores and procurement",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/17",
+    "status": "Complete",
+    "source_article": "playbook/17-hotel-inventory-par-management-ai-toolkit.md",
     "prompt_file": "prompt-library/170-inventory-kpi-dashboard.md"
   },
   {
@@ -2428,8 +2428,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/171-daily-revenue-brief.md"
   },
   {
@@ -2441,8 +2441,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/172-demand-driver-review.md"
   },
   {
@@ -2454,8 +2454,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/173-forecast-assumption-checker.md"
   },
   {
@@ -2467,8 +2467,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/174-adr-and-occupancy-analyzer.md"
   },
   {
@@ -2480,8 +2480,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/175-revpar-diagnostic.md"
   },
   {
@@ -2493,8 +2493,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/176-rate-recommendation-draft.md"
   },
   {
@@ -2506,8 +2506,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/177-length-of-stay-opportunity-review.md"
   },
   {
@@ -2519,8 +2519,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/178-channel-mix-analyzer.md"
   },
   {
@@ -2532,8 +2532,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/179-pickup-and-pace-review.md"
   },
   {
@@ -2545,8 +2545,8 @@
     "category": "Revenue Management",
     "department": "Revenue teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/18",
+    "status": "Complete",
+    "source_article": "playbook/18-hotel-revenue-management-ai-toolkit.md",
     "prompt_file": "prompt-library/180-revenue-meeting-brief.md"
   },
   {
@@ -2558,8 +2558,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/181-corporate-account-research-brief.md"
   },
   {
@@ -2571,8 +2571,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/182-b2b-proposal-draft.md"
   },
   {
@@ -2584,8 +2584,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/183-rfp-response-builder.md"
   },
   {
@@ -2597,8 +2597,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/184-account-plan-generator.md"
   },
   {
@@ -2610,8 +2610,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/185-corporate-rate-review.md"
   },
   {
@@ -2623,8 +2623,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/186-sales-pipeline-summary.md"
   },
   {
@@ -2636,8 +2636,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/187-meeting-preparation-brief.md"
   },
   {
@@ -2649,8 +2649,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/188-lost-business-analyzer.md"
   },
   {
@@ -2662,8 +2662,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/189-long-stay-corporate-offer-builder.md"
   },
   {
@@ -2675,8 +2675,8 @@
     "category": "Sales",
     "department": "Sales and corporate account teams",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/19",
+    "status": "Complete",
+    "source_article": "playbook/19-hotel-sales-corporate-accounts-ai-toolkit.md",
     "prompt_file": "prompt-library/190-account-performance-review.md"
   },
   {
@@ -2818,8 +2818,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/201-department-cost-variance-analyzer.md"
   },
   {
@@ -2831,8 +2831,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/202-monthly-p-l-commentary-draft.md"
   },
   {
@@ -2844,8 +2844,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/203-cost-per-occupied-night-review.md"
   },
   {
@@ -2857,8 +2857,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/204-budget-assumption-checker.md"
   },
   {
@@ -2870,8 +2870,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/205-forecast-scenario-builder.md"
   },
   {
@@ -2883,8 +2883,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/206-expense-anomaly-review.md"
   },
   {
@@ -2896,8 +2896,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/207-cost-saving-business-case.md"
   },
   {
@@ -2909,8 +2909,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/208-hotel-apartment-unit-economics-review.md"
   },
   {
@@ -2922,8 +2922,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/209-cash-impact-prioritizer.md"
   },
   {
@@ -2935,8 +2935,8 @@
     "category": "Finance",
     "department": "Finance and operations leaders",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/21",
+    "status": "Complete",
+    "source_article": "playbook/21-hotel-finance-cost-control-ai-toolkit.md",
     "prompt_file": "prompt-library/210-monthly-finance-operations-brief.md"
   },
   {
@@ -2948,8 +2948,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/211-kpi-architecture-builder.md"
   },
   {
@@ -2961,8 +2961,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/212-dashboard-requirement-designer.md"
   },
   {
@@ -2974,8 +2974,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/213-metric-definition-checker.md"
   },
   {
@@ -2987,8 +2987,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/214-executive-kpi-summary.md"
   },
   {
@@ -3000,8 +3000,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/215-department-scorecard-builder.md"
   },
   {
@@ -3013,8 +3013,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/216-variance-and-trend-analyzer.md"
   },
   {
@@ -3026,8 +3026,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/217-leading-vs-lagging-kpi-classifier.md"
   },
   {
@@ -3039,8 +3039,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/218-data-quality-review.md"
   },
   {
@@ -3052,8 +3052,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/219-management-commentary-draft.md"
   },
   {
@@ -3065,8 +3065,8 @@
     "category": "Analytics",
     "department": "Managers and analysts",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/22",
+    "status": "Complete",
+    "source_article": "playbook/22-hotel-kpi-dashboard-ai-toolkit.md",
     "prompt_file": "prompt-library/220-kpi-action-tracker.md"
   },
   {
@@ -3078,8 +3078,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/221-roster-demand-planner.md"
   },
   {
@@ -3091,8 +3091,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/222-workload-vs-staffing-review.md"
   },
   {
@@ -3104,8 +3104,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/223-overtime-pattern-analyzer.md"
   },
   {
@@ -3117,8 +3117,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/224-productivity-kpi-review.md"
   },
   {
@@ -3130,8 +3130,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/225-training-need-detector.md"
   },
   {
@@ -3143,8 +3143,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/226-shift-handover-quality-review.md"
   },
   {
@@ -3156,8 +3156,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/227-cross-training-plan-builder.md"
   },
   {
@@ -3169,8 +3169,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/228-peak-period-staffing-scenario.md"
   },
   {
@@ -3182,8 +3182,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/229-absence-impact-planner.md"
   },
   {
@@ -3195,8 +3195,8 @@
     "category": "Workforce",
     "department": "Department heads and HR operations",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/23",
+    "status": "Complete",
+    "source_article": "playbook/23-workforce-rostering-productivity-ai-toolkit.md",
     "prompt_file": "prompt-library/230-workforce-productivity-brief.md"
   },
   {
@@ -3208,8 +3208,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/231-gm-morning-brief.md"
   },
   {
@@ -3221,8 +3221,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/232-executive-business-review-draft.md"
   },
   {
@@ -3234,8 +3234,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/233-department-performance-challenge.md"
   },
   {
@@ -3247,8 +3247,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/234-risk-register-review.md"
   },
   {
@@ -3260,8 +3260,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/235-strategic-priority-planner.md"
   },
   {
@@ -3273,8 +3273,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/236-owner-meeting-preparation.md"
   },
   {
@@ -3286,8 +3286,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/237-monthly-performance-narrative.md"
   },
   {
@@ -3299,8 +3299,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/238-decision-memo-builder.md"
   },
   {
@@ -3312,8 +3312,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/239-leadership-action-tracker.md"
   },
   {
@@ -3325,8 +3325,8 @@
     "category": "General Management",
     "department": "General managers",
     "risk_level": "Medium",
-    "status": "Registered",
-    "source_article": "playbook/24",
+    "status": "Complete",
+    "source_article": "playbook/24-hotel-general-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/240-gm-weekly-operating-review.md"
   },
   {
