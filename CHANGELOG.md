@@ -1,3 +1,10 @@
+## 0.17.0 — 2026-10-07
+
+- Published Article 20: Hotel OTA, Distribution & Review Management AI Toolkit.
+- Added Prompts 191–200 covering OTA listing quality, channel content consistency, review themes and responses, distribution mix, commission cost, rate parity investigation, promotion performance, content improvement and reputation management.
+- Added controlled publication, guest-privacy, parity-comparison and human-approval guardrails.
+- Added the Article 20 web edition and series integration.
+
 ## 0.16.0 — 2026-10-07
 
 - Completed Article 15: Energy & Utility Management AI Toolkit.
