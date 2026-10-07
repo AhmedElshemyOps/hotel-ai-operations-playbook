@@ -3338,7 +3338,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/241-hotel-control-tower-daily-brief.md"
   },
@@ -3351,7 +3351,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/242-cross-department-exception-prioritizer.md"
   },
@@ -3364,7 +3364,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/243-operational-health-score-designer.md"
   },
@@ -3377,7 +3377,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/244-guest-risk-revenue-integrated-review.md"
   },
@@ -3390,7 +3390,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/245-apartment-reliability-heatmap-planner.md"
   },
@@ -3403,7 +3403,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/246-control-tower-alert-logic-builder.md"
   },
@@ -3416,7 +3416,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/247-management-escalation-queue.md"
   },
@@ -3429,7 +3429,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/248-scenario-response-coordinator.md"
   },
@@ -3442,7 +3442,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/249-executive-control-tower-summary.md"
   },
@@ -3455,7 +3455,7 @@
     "category": "Control Tower",
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/25",
     "prompt_file": "prompt-library/250-control-tower-governance-checklist.md"
   },
@@ -3468,7 +3468,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/251-ai-use-case-risk-assessment.md"
   },
@@ -3481,7 +3481,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/252-hotel-ai-authority-matrix.md"
   },
@@ -3494,7 +3494,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/253-privacy-and-data-minimization-review.md"
   },
@@ -3507,7 +3507,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/254-prompt-approval-workflow.md"
   },
@@ -3520,7 +3520,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/255-ai-output-verification-checklist.md"
   },
@@ -3533,7 +3533,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/256-ai-incident-response-plan.md"
   },
@@ -3546,7 +3546,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/257-approved-tool-assessment.md"
   },
@@ -3559,7 +3559,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/258-prompt-version-control-register.md"
   },
@@ -3572,7 +3572,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/259-human-oversight-design.md"
   },
@@ -3585,7 +3585,7 @@
     "category": "AI Governance",
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
-    "status": "Registered",
+    "status": "Complete",
     "source_article": "playbook/26",
     "prompt_file": "prompt-library/260-quarterly-ai-governance-review.md"
   }
