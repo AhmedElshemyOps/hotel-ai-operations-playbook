@@ -12,9 +12,9 @@ Hotel Operations · Serviced Apartments · Guest Experience · Quality · Revenu
 
 ## Current build status
 
-- **Articles 01–12: complete — HOTEL Framework through SOP & Process Design**
-- **Prompts 001–120: complete and copy-ready**
-- **Articles 12–26:** structured roadmap with 150 registered prompt records awaiting chapter-by-chapter editorial completion
+- **Articles 01–15: complete — HOTEL Framework through Energy & Utility Management**
+- **Prompts 001–150: complete and copy-ready**
+- **Articles 16–26:** structured roadmap with 110 registered prompt records awaiting chapter-by-chapter editorial completion
 - **Repository validation:** 26 chapters / 260 unique prompt records
 
 ## Premium website standard
