@@ -12,8 +12,8 @@ Hotel Operations · Serviced Apartments · Guest Experience · Quality · Revenu
 
 ## Current build status
 
-- **Articles 01–24: complete and synchronized**
-- **Prompts 001–240: complete and copy-ready**
+- **Articles 01–26 complete and synchronized
+- **Prompts 001–260 complete
 - **Articles 16–26:** structured roadmap with 110 registered prompt records awaiting chapter-by-chapter editorial completion
 - **Repository validation:** 26 chapters / 260 unique prompt records
 
@@ -122,3 +122,8 @@ Prompts 191–200 are complete and published, covering OTA listing quality, chan
 ### Articles 16–24 consolidation
 
 Articles 16 through 24 and Prompts 151–240 are synchronized across the playbook registry and web editions. Article 16 prompt titles are aligned to the canonical registry.
+
+
+## Series completion
+
+Articles 01–26 and Prompts 001–260 are complete and synchronized. The final chapters are Article 25 — Hotel Control Tower & AI Decision-Support Toolkit and Article 26 — Responsible AI Governance for Hotels.
