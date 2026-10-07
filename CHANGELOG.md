@@ -1,3 +1,11 @@
+## 0.16.0 — 2026-10-07
+
+- Completed Article 15: Energy & Utility Management AI Toolkit.
+- Added Prompts 141–150 covering utility baselines, electricity/water variance, meter data quality, HVAC, peak demand, conservation opportunities, tariff analysis, M&V and management review.
+- Added engineering, guest-comfort and Finance approval guardrails.
+- Updated the prompt registry to 150 completed prompts.
+- Prepared the Article 15 premium web edition using the Tourism Quality/SOP design system.
+
 ## 0.15.0 — 2026-10-07
 
 - Completed Article 14: Hotel ESG & Sustainability AI Toolkit.
