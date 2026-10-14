@@ -12,10 +12,10 @@ Hotel Operations · Serviced Apartments · Guest Experience · Quality · Revenu
 
 ## Current build status
 
-- **Articles 01–26 complete and synchronized
-- **Prompts 001–260 complete
-- **Articles 16–26:** structured roadmap with 110 registered prompt records awaiting chapter-by-chapter editorial completion
-- **Repository validation:** 26 chapters / 260 unique prompt records
+- **Articles 01–26 complete and synchronized.**
+- **Prompts 001–260 complete.**
+- **Repository inventory:** 26 chapters / 260 individual prompt files / 260 unique dataset records.
+- **Local validation:** run `python3 tools/validate_registry.py` to check dataset paths and canonical prompt metadata.
 
 ## Premium website standard
 
@@ -68,7 +68,7 @@ This is **not a collection of one-line prompts**. Every template defines the pro
 | 25 | [Hotel Control Tower & AI Decision-Support Toolkit](playbook/25-hotel-control-tower-ai-decision-support-toolkit.md) | Control Tower | 10 |
 | 26 | [Responsible AI Governance for Hotels](playbook/26-responsible-ai-governance-for-hotels.md) | AI Governance | 10 |
 
-**Planned total: 260 governed prompt templates.**
+**Current total: 260 governed prompt templates.**
 
 ## Repository structure
 
@@ -83,11 +83,8 @@ hotel-ai-operations-playbook/
 ├── playbook/
 ├── prompt-library/
 ├── data/
-├── templates/
-├── examples/
 ├── docs/
-├── tools/
-├── .github/
+├── tools/                  # Registry validation
 ├── ROADMAP.md
 ├── CHANGELOG.md
 ├── CITATION.cff
