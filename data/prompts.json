@@ -9,7 +9,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/001-general-hotel-prompt-builder.md"
   },
   {
@@ -22,7 +22,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/002-prompt-improvement-and-rewriting.md"
   },
   {
@@ -35,7 +35,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/003-missing-information-detection.md"
   },
   {
@@ -48,7 +48,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/004-hotel-operating-context-builder.md"
   },
   {
@@ -61,7 +61,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/005-guest-and-stakeholder-profile-definition.md"
   },
   {
@@ -74,7 +74,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/006-output-format-specification.md"
   },
   {
@@ -87,7 +87,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/007-source-of-truth-and-evidence-planner.md"
   },
   {
@@ -100,7 +100,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/008-exception-and-escalation-prompt-builder.md"
   },
   {
@@ -113,7 +113,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/009-prompt-risk-and-authority-classifier.md"
   },
   {
@@ -126,7 +126,7 @@
     "department": "Cross-functional Hotel Teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/01",
+    "source_article": "playbook/01-the-hotel-prompting-framework-how-to-write-professional-ai-prompts-for-hotel-operations.md",
     "prompt_file": "prompt-library/010-prompt-verification-and-approval-checklist.md"
   },
   {
@@ -215,7 +215,7 @@
     "title": "Manager Walk-Around Planner",
     "category": "Daily Operations",
     "department": "Operations Management",
-    "risk_level": "Low",
+    "risk_level": "Medium",
     "status": "Complete",
     "source_article": "playbook/02-hotel-operations-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/017-manager-walk-around-planner.md"
@@ -659,7 +659,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/051-room-readiness-planner.md"
   },
   {
@@ -672,7 +672,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/052-housekeeping-assignment-support.md"
   },
   {
@@ -685,7 +685,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/053-inspection-checklist-builder.md"
   },
   {
@@ -698,7 +698,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/054-reclean-root-cause-analyzer.md"
   },
   {
@@ -711,7 +711,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/055-linen-par-review.md"
   },
   {
@@ -724,7 +724,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/056-amenity-consumption-analyzer.md"
   },
   {
@@ -737,7 +737,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/057-housekeeping-productivity-review.md"
   },
   {
@@ -750,7 +750,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/058-deep-clean-planner.md"
   },
   {
@@ -763,7 +763,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/059-lost-and-found-draft-workflow.md"
   },
   {
@@ -776,7 +776,7 @@
     "department": "Housekeeping leaders",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/06",
+    "source_article": "playbook/06-housekeeping-management-ai-toolkit.md",
     "prompt_file": "prompt-library/060-housekeeping-shift-handover.md"
   },
   {
@@ -789,7 +789,7 @@
     "department": "Engineering teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/061-work-order-triage.md"
   },
   {
@@ -802,7 +802,7 @@
     "department": "Engineering teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/062-preventive-maintenance-planner.md"
   },
   {
@@ -815,7 +815,7 @@
     "department": "Engineering teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/063-repeat-defect-analyzer.md"
   },
   {
@@ -828,7 +828,7 @@
     "department": "Engineering teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/064-first-time-fix-review.md"
   },
   {
@@ -841,7 +841,7 @@
     "department": "Engineering teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/065-asset-history-summary.md"
   },
   {
@@ -854,7 +854,7 @@
     "department": "Engineering teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/066-engineering-shift-handover.md"
   },
   {
@@ -867,7 +867,7 @@
     "department": "Engineering teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/067-critical-spare-parts-planner.md"
   },
   {
@@ -880,7 +880,7 @@
     "department": "Engineering teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/068-room-out-of-service-risk-review.md"
   },
   {
@@ -893,7 +893,7 @@
     "department": "Engineering teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/069-maintenance-vendor-comparison.md"
   },
   {
@@ -906,7 +906,7 @@
     "department": "Engineering teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/07",
+    "source_article": "playbook/07-engineering-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/070-technical-incident-summary.md"
   },
   {
@@ -919,7 +919,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/071-failure-pattern-detector.md"
   },
   {
@@ -932,7 +932,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/072-asset-anomaly-review.md"
   },
   {
@@ -945,7 +945,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/073-predictive-maintenance-hypothesis-builder.md"
   },
   {
@@ -958,7 +958,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/074-pm-interval-review.md"
   },
   {
@@ -971,7 +971,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/075-high-risk-asset-prioritizer.md"
   },
   {
@@ -984,7 +984,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/076-repeat-failure-correlation-review.md"
   },
   {
@@ -997,7 +997,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/077-maintenance-data-quality-audit.md"
   },
   {
@@ -1010,7 +1010,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/078-downtime-forecast-scenario.md"
   },
   {
@@ -1023,7 +1023,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/079-early-warning-indicator-designer.md"
   },
   {
@@ -1036,7 +1036,7 @@
     "department": "Engineering and quality teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/08",
+    "source_article": "playbook/08-predictive-maintenance-ai-toolkit.md",
     "prompt_file": "prompt-library/080-predictive-maintenance-validation-plan.md"
   },
   {
@@ -1049,7 +1049,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/081-guest-journey-review.md"
   },
   {
@@ -1062,7 +1062,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/082-guest-request-personalization-draft.md"
   },
   {
@@ -1075,7 +1075,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/083-pre-arrival-communication-planner.md"
   },
   {
@@ -1088,7 +1088,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/084-in-stay-experience-review.md"
   },
   {
@@ -1101,7 +1101,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "Low",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/085-post-stay-follow-up-draft.md"
   },
   {
@@ -1114,7 +1114,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/086-guest-preference-summary.md"
   },
   {
@@ -1127,7 +1127,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/087-special-occasion-planning-support.md"
   },
   {
@@ -1140,7 +1140,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/088-accessibility-request-review.md"
   },
   {
@@ -1153,7 +1153,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/089-service-touchpoint-audit.md"
   },
   {
@@ -1166,7 +1166,7 @@
     "department": "Guest relations and cross-functional hotel teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/09",
+    "source_article": "playbook/09-guest-experience-ai-toolkit.md",
     "prompt_file": "prompt-library/090-guest-experience-improvement-backlog.md"
   },
   {
@@ -1179,7 +1179,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/091-complaint-triage.md"
   },
   {
@@ -1192,7 +1192,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/092-complaint-root-cause-analyzer.md"
   },
   {
@@ -1205,7 +1205,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/093-service-recovery-options-draft.md"
   },
   {
@@ -1218,7 +1218,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/094-compensation-authority-check.md"
   },
   {
@@ -1231,7 +1231,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/095-escalation-summary.md"
   },
   {
@@ -1244,7 +1244,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/096-complaint-response-draft.md"
   },
   {
@@ -1257,7 +1257,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/097-repeat-complaint-pattern-review.md"
   },
   {
@@ -1270,7 +1270,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/098-negative-review-recovery-draft.md"
   },
   {
@@ -1283,7 +1283,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/099-complaint-closure-checklist.md"
   },
   {
@@ -1296,7 +1296,7 @@
     "department": "Guest relations, duty management and quality",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/10",
+    "source_article": "playbook/10-guest-complaint-service-recovery-ai-toolkit.md",
     "prompt_file": "prompt-library/100-capa-builder.md"
   },
   {
@@ -1439,7 +1439,7 @@
     "department": "Quality and operations teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/111-sop-structure-builder.md"
   },
   {
@@ -1452,7 +1452,7 @@
     "department": "Quality and operations teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/112-procedure-draft-builder.md"
   },
   {
@@ -1465,7 +1465,7 @@
     "department": "Quality and operations teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/113-raci-designer.md"
   },
   {
@@ -1478,7 +1478,7 @@
     "department": "Quality and operations teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/114-exception-and-escalation-matrix.md"
   },
   {
@@ -1491,7 +1491,7 @@
     "department": "Quality and operations teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/115-sop-evidence-record-designer.md"
   },
   {
@@ -1504,7 +1504,7 @@
     "department": "Quality and operations teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/116-sop-kpi-designer.md"
   },
   {
@@ -1517,7 +1517,7 @@
     "department": "Quality and operations teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/117-work-instruction-builder.md"
   },
   {
@@ -1530,7 +1530,7 @@
     "department": "Quality and operations teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/118-checklist-generator.md"
   },
   {
@@ -1543,7 +1543,7 @@
     "department": "Quality and operations teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/119-sop-gap-audit.md"
   },
   {
@@ -1556,7 +1556,7 @@
     "department": "Quality and operations teams",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/12",
+    "source_article": "playbook/12-hotel-sop-process-design-ai-toolkit.md",
     "prompt_file": "prompt-library/120-document-revision-impact-review.md"
   },
   {
@@ -1893,140 +1893,140 @@
     "article_number": 14,
     "prompt_number": 1,
     "global_number": 131,
-    "id": "14-01-hotel-esg-baseline-builder",
-    "title": "Hotel ESG Baseline Builder",
+    "id": "14-01-esg-materiality-baseline-builder",
+    "title": "ESG Materiality & Baseline Builder",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
     "risk_level": "Medium",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/131-hotel-esg-baseline-builder.md",
+    "prompt_file": "prompt-library/131-esg-materiality-baseline-builder.md",
     "version": "1.0.0"
   },
   {
     "article_number": 14,
     "prompt_number": 2,
     "global_number": 132,
-    "id": "14-02-sustainability-initiative-business-case",
-    "title": "Sustainability Initiative Business Case",
+    "id": "14-02-environmental-aspect-impact-register",
+    "title": "Environmental Aspect & Impact Register",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
     "risk_level": "Medium",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/132-sustainability-initiative-business-case.md",
+    "prompt_file": "prompt-library/132-environmental-aspect-impact-register.md",
     "version": "1.0.0"
   },
   {
     "article_number": 14,
     "prompt_number": 3,
     "global_number": 133,
-    "id": "14-03-esg-kpi-designer",
-    "title": "ESG KPI Designer",
+    "id": "14-03-resource-performance-review",
+    "title": "Resource Performance Review",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
     "risk_level": "Medium",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/133-esg-kpi-designer.md",
+    "prompt_file": "prompt-library/133-resource-performance-review.md",
     "version": "1.0.0"
   },
   {
     "article_number": 14,
     "prompt_number": 4,
     "global_number": 134,
-    "id": "14-04-waste-reduction-planner",
-    "title": "Waste Reduction Planner",
+    "id": "14-04-ghg-emissions-inventory-support",
+    "title": "GHG Emissions Inventory Support",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
-    "risk_level": "Medium",
+    "risk_level": "High",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/134-waste-reduction-planner.md",
+    "prompt_file": "prompt-library/134-ghg-emissions-inventory-support.md",
     "version": "1.0.0"
   },
   {
     "article_number": 14,
     "prompt_number": 5,
     "global_number": 135,
-    "id": "14-05-laundry-sustainability-review",
-    "title": "Laundry Sustainability Review",
+    "id": "14-05-sustainable-procurement-review",
+    "title": "Sustainable Procurement Review",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
     "risk_level": "Medium",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/135-laundry-sustainability-review.md",
+    "prompt_file": "prompt-library/135-sustainable-procurement-review.md",
     "version": "1.0.0"
   },
   {
     "article_number": 14,
     "prompt_number": 6,
     "global_number": 136,
-    "id": "14-06-amenity-waste-analyzer",
-    "title": "Amenity Waste Analyzer",
+    "id": "14-06-staff-guest-sustainability-engagement-planner",
+    "title": "Staff & Guest Sustainability Engagement Planner",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/136-amenity-waste-analyzer.md",
+    "prompt_file": "prompt-library/136-staff-guest-sustainability-engagement-planner.md",
     "version": "1.0.0"
   },
   {
     "article_number": 14,
     "prompt_number": 7,
     "global_number": 137,
-    "id": "14-07-responsible-sourcing-review",
-    "title": "Responsible Sourcing Review",
+    "id": "14-07-social-impact-workforce-esg-review",
+    "title": "Social Impact & Workforce ESG Review",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
-    "risk_level": "Medium",
+    "risk_level": "High",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/137-responsible-sourcing-review.md",
+    "prompt_file": "prompt-library/137-social-impact-workforce-esg-review.md",
     "version": "1.0.0"
   },
   {
     "article_number": 14,
     "prompt_number": 8,
     "global_number": 138,
-    "id": "14-08-guest-sustainability-communication-draft",
-    "title": "Guest Sustainability Communication Draft",
+    "id": "14-08-esg-kpi-target-tracker",
+    "title": "ESG KPI & Target Tracker",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
     "risk_level": "Medium",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/138-guest-sustainability-communication-draft.md",
+    "prompt_file": "prompt-library/138-esg-kpi-target-tracker.md",
     "version": "1.0.0"
   },
   {
     "article_number": 14,
     "prompt_number": 9,
     "global_number": 139,
-    "id": "14-09-esg-action-register",
-    "title": "ESG Action Register",
+    "id": "14-09-sustainability-claim-greenwashing-risk-review",
+    "title": "Sustainability Claim & Greenwashing Risk Review",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
-    "risk_level": "Medium",
+    "risk_level": "High",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/139-esg-action-register.md",
+    "prompt_file": "prompt-library/139-sustainability-claim-greenwashing-risk-review.md",
     "version": "1.0.0"
   },
   {
     "article_number": 14,
     "prompt_number": 10,
     "global_number": 140,
-    "id": "14-10-sustainability-performance-summary",
-    "title": "Sustainability Performance Summary",
+    "id": "14-10-esg-management-review-pack",
+    "title": "ESG Management Review Pack",
     "category": "Hotel ESG & Sustainability",
     "department": "ESG / Sustainability",
     "risk_level": "Medium",
     "status": "Complete",
     "source_article": "playbook/14-hotel-esg-sustainability-ai-toolkit.md",
-    "prompt_file": "prompt-library/140-sustainability-performance-summary.md",
+    "prompt_file": "prompt-library/140-esg-management-review-pack.md",
     "version": "1.0.0"
   },
   {
@@ -2039,7 +2039,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/141-utility-baseline-and-normalization-builder.md"
   },
   {
@@ -2052,7 +2052,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/142-electricity-variance-analyzer.md"
   },
   {
@@ -2065,7 +2065,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/143-water-variance-and-leak-signal-review.md"
   },
   {
@@ -2078,7 +2078,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/144-meter-and-utility-data-quality-auditor.md"
   },
   {
@@ -2091,7 +2091,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/145-hvac-energy-performance-review.md"
   },
   {
@@ -2104,7 +2104,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/146-peak-demand-and-load-profile-analyzer.md"
   },
   {
@@ -2117,7 +2117,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/147-energy-and-water-conservation-opportunity-register.md"
   },
   {
@@ -2130,7 +2130,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/148-utility-tariff-and-cost-impact-analyzer.md"
   },
   {
@@ -2143,7 +2143,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "High",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/149-measurement-and-verification-plan-builder.md"
   },
   {
@@ -2156,7 +2156,7 @@
     "department": "Engineering / Operations / Finance / Sustainability",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/15",
+    "source_article": "playbook/15-energy-utility-management-ai-toolkit.md",
     "prompt_file": "prompt-library/150-utility-management-review-pack.md"
   },
   {
@@ -3339,7 +3339,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/241-hotel-control-tower-daily-brief.md"
   },
   {
@@ -3352,7 +3352,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/242-cross-department-exception-prioritizer.md"
   },
   {
@@ -3365,7 +3365,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/243-operational-health-score-designer.md"
   },
   {
@@ -3378,7 +3378,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/244-guest-risk-revenue-integrated-review.md"
   },
   {
@@ -3391,7 +3391,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/245-apartment-reliability-heatmap-planner.md"
   },
   {
@@ -3404,7 +3404,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/246-control-tower-alert-logic-builder.md"
   },
   {
@@ -3417,7 +3417,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/247-management-escalation-queue.md"
   },
   {
@@ -3430,7 +3430,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/248-scenario-response-coordinator.md"
   },
   {
@@ -3443,7 +3443,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/249-executive-control-tower-summary.md"
   },
   {
@@ -3456,7 +3456,7 @@
     "department": "Executive and cross-functional teams",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/25",
+    "source_article": "playbook/25-hotel-control-tower-ai-decision-support-toolkit.md",
     "prompt_file": "prompt-library/250-control-tower-governance-checklist.md"
   },
   {
@@ -3469,7 +3469,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/251-ai-use-case-risk-assessment.md"
   },
   {
@@ -3482,7 +3482,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/252-hotel-ai-authority-matrix.md"
   },
   {
@@ -3495,7 +3495,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/253-privacy-and-data-minimization-review.md"
   },
   {
@@ -3508,7 +3508,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/254-prompt-approval-workflow.md"
   },
   {
@@ -3521,7 +3521,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/255-ai-output-verification-checklist.md"
   },
   {
@@ -3534,7 +3534,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/256-ai-incident-response-plan.md"
   },
   {
@@ -3547,7 +3547,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/257-approved-tool-assessment.md"
   },
   {
@@ -3560,7 +3560,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/258-prompt-version-control-register.md"
   },
   {
@@ -3573,7 +3573,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/259-human-oversight-design.md"
   },
   {
@@ -3586,7 +3586,7 @@
     "department": "Leadership, IT, legal, privacy and operations",
     "risk_level": "Medium",
     "status": "Complete",
-    "source_article": "playbook/26",
+    "source_article": "playbook/26-responsible-ai-governance-hotels.md",
     "prompt_file": "prompt-library/260-quarterly-ai-governance-review.md"
   }
 ]
