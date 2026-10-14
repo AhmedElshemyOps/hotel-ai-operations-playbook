@@ -34,6 +34,9 @@ try:
         title = re.sub(r'^#+ (?:Prompt \d+ [—–-] )?', '', text.splitlines()[0])
         if title != p['title']:
             errors.append(f"Prompt {p['global_number']}: title differs from canonical file")
+        risk = re.search(r'\*\*Risk level:\*\*\s*([^\n]+)', text)
+        if risk and risk[1].strip().casefold() != p['risk_level'].casefold():
+            errors.append(f"Prompt {p['global_number']}: risk level differs from canonical file")
         # ESG metadata was revised with Article 14 and must match the new files.
         if 131 <= p['global_number'] <= 140:
             for key, label in [('id', 'Prompt ID'), ('department', 'Department'), ('risk_level', 'Risk level'), ('status', 'Status')]:

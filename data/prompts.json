@@ -215,7 +215,7 @@
     "title": "Manager Walk-Around Planner",
     "category": "Daily Operations",
     "department": "Operations Management",
-    "risk_level": "Low",
+    "risk_level": "Medium",
     "status": "Complete",
     "source_article": "playbook/02-hotel-operations-manager-ai-toolkit.md",
     "prompt_file": "prompt-library/017-manager-walk-around-planner.md"
